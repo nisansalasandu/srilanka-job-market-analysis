@@ -10,7 +10,7 @@
 
 This project analyzes the **Sri Lankan recruitment and job market** from 2022-2024, covering:
 - Historical revenue patterns and seasonality analysis
-- Time series forecasting using Prophet and SARIMA models
+- Time series forecasting using Prophet
 - Economic indicators integration (GDP growth, unemployment rates)
 - Scenario planning (best case, most likely, worst case forecasts)
 - Job market insights including emerging roles and in-demand skills
