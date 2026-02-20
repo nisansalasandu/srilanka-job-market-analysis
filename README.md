@@ -29,14 +29,13 @@ This project analyzes the **Sri Lankan recruitment and job market** from 2022-20
 
 ### 🔮 Forecasting Models
 - ✅ **Prophet Model** - Facebook's time series forecasting with regressors
-- ✅ **SARIMA Model** - Seasonal ARIMA for comparison (optional)
 - ✅ **Model Validation** - MAE, RMSE, MAPE metrics on test data
 - ✅ **6-Month Forecasts** - Future revenue predictions with confidence intervals
 
 ### 📊 Interactive Dashboard
 - ✅ **4-Page Power BI Dashboard** - Executive summary, revenue analysis, job insights, forecasts
 - ✅ **20+ DAX Measures** - Custom calculations and KPIs
-- ✅ **Dynamic Filtering** - Year, quarter, and industry slicers
+- ✅ **Dynamic Filtering** - Year, quarter, month and industry slicers
 - ✅ **Scenario Visualization** - Best/Most Likely/Worst case comparisons
 
 ### 🎨 Visualizations
@@ -58,8 +57,8 @@ NumPy
 Jupyter
 
 ### Machine Learning & Forecasting
-- **Prophet** - Time series forecasting (Facebook)
-- **Statsmodels** - Statistical modeling and SARIMA
+- **Prophet** - Time series forecasting
+- **Statsmodels** - Statistical modeling
 - **Scikit-learn** - Model validation metrics
 
 ### Visualization & BI
@@ -68,7 +67,7 @@ Matplotlib
 Seaborn
 
 ### Data Tools
-- **Excel/CSV** - Data storage and interchange
+- **Excel** - Data storage and interchange
 - **OpenPyXL** - Excel file handling
 - **DAX** - Power BI calculations
 
@@ -86,15 +85,12 @@ srilanka-job-market-analysis/
 │   │   └── srilanka_skills_demand_data.csv
 │   │
 │   ├── cleaned/                                # Cleaned datasets
-│   │   ├── jobs_cleaned.csv
-│   │   ├── revenue_cleaned.csv
-│   │   ├── skills_cleaned.csv
-│   │   ├── job_market_data_cleaned.xlsx
-│   │   └── DATA_CLEANING_REPORT.txt
+│   │   ├── 
+│   │   ├── 
 │   │
 │   └── processed/                              # Analysis outputs
-│       ├── scenario_forecast.csv
-│       └── summary_stats.csv
+│       ├── 
+│       └── 
 │
 ├── notebooks/
 │   └── JobMarket_Analysis.ipynb                # Main Jupyter notebook
@@ -104,25 +100,16 @@ srilanka-job-market-analysis/
 │
 ├── outputs/
 │   ├── charts/                                 # Generated visualizations
-│   │   ├── 01_revenue_trend.png
-│   │   ├── 02_seasonality.png
-│   │   ├── 03_industry_revenue.png
-│   │   ├── 04_prophet_validation.png
-│   │   ├── 05_correlation.png
-│   │   └── 06_scenarios.png
+│   │   ├── 
+│   │   ├── 
 │   │
 │   └── reports/
-│       └── Final_Report.pdf                    # Comprehensive report
+│       └──                     # Comprehensive reports                
 │
-├── docs/
-│   ├── 2_WEEK_PROJECT_PLAN.md                  # Project timeline
-│
-├── images/                                      # README images
+├── images/                                      # dashboard images
 │   └── dashboard.png
 │
-├── requirements.txt                             # Python dependencies
-├── README.md                                    # This file
-└── LICENSE                                      # MIT License
+└── README.md                                    # This file                                    
 ```
 
 ---
@@ -467,7 +454,7 @@ Through this project, I developed expertise in:
 
 - ✅ Data cleaning and preprocessing workflows
 - ✅ Time series analysis and forecasting techniques
-- ✅ Prophet and SARIMA model implementation
+- ✅ Prophet model implementation
 - ✅ Power BI dashboard design and DAX programming
 - ✅ Business intelligence and data storytelling
 - ✅ Economic indicators integration in forecasting
