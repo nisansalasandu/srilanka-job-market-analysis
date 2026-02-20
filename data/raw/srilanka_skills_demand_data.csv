@@ -1,0 +1,541 @@
+Year,Quarter,Period,Skill,Category,Demand_Score,Job_Postings_Count,Avg_Salary_LKR,Entry_Level_Pct,Mid_Level_Pct,Senior_Level_Pct
+2022,Q1,2022-Q1,Critical Thinking,Soft Skills,140.42,626,57588,21,40,39
+2022,Q1,2022-Q1,Node.js,Technical Skills,126.57,415,119946,40,40,20
+2022,Q1,2022-Q1,Business Analysis,Business Skills,122.71,417,71471,35,30,35
+2022,Q1,2022-Q1,SEO,Business Skills,117.17,291,120800,39,47,14
+2022,Q1,2022-Q1,Time Management,Soft Skills,115.47,542,87789,33,50,17
+2022,Q1,2022-Q1,Power BI,Tools & Software,113.73,453,109143,32,47,21
+2022,Q1,2022-Q1,Creativity,Soft Skills,110.99,354,115700,24,50,26
+2022,Q1,2022-Q1,Salesforce,Tools & Software,109.35,518,166277,22,32,46
+2022,Q1,2022-Q1,Python,Technical Skills,108.21,525,79184,20,38,42
+2022,Q1,2022-Q1,Cloud Computing,Technical Skills,104.35,393,246471,24,37,39
+2022,Q1,2022-Q1,Docker,Technical Skills,101.71,383,75799,21,42,37
+2022,Q1,2022-Q1,Financial Analysis,Business Skills,100.85,285,244009,23,36,41
+2022,Q1,2022-Q1,Mobile Development,Technical Skills,100.68,413,131077,33,40,27
+2022,Q1,2022-Q1,AWS,Technical Skills,100.48,212,107728,20,32,48
+2022,Q1,2022-Q1,Machine Learning,Technical Skills,100.37,425,205849,21,49,30
+2022,Q1,2022-Q1,Git,Tools & Software,98.29,342,105768,24,45,31
+2022,Q1,2022-Q1,Teamwork,Soft Skills,94.63,240,191185,35,41,24
+2022,Q1,2022-Q1,AI,Technical Skills,92.88,364,224025,40,49,11
+2022,Q1,2022-Q1,DevOps,Technical Skills,90.34,381,122530,21,30,49
+2022,Q1,2022-Q1,JavaScript,Technical Skills,77.72,198,143132,26,38,36
+2022,Q1,2022-Q1,JIRA,Tools & Software,76.07,289,241263,23,40,37
+2022,Q1,2022-Q1,Agile,Business Skills,75.68,172,191597,22,34,44
+2022,Q1,2022-Q1,Excel,Tools & Software,73.59,200,122320,26,33,41
+2022,Q1,2022-Q1,Data Analysis,Technical Skills,71.81,349,91352,34,47,19
+2022,Q1,2022-Q1,Sales,Business Skills,70.73,260,81340,37,35,28
+2022,Q1,2022-Q1,Customer Service,Business Skills,67.85,324,98329,21,38,41
+2022,Q1,2022-Q1,Cybersecurity,Technical Skills,65.17,318,57235,23,38,39
+2022,Q1,2022-Q1,SQL,Technical Skills,63.69,298,65184,27,48,25
+2022,Q1,2022-Q1,Scrum,Business Skills,59.37,136,121548,33,45,22
+2022,Q1,2022-Q1,Accounting Software,Business Skills,59.37,184,219773,24,38,38
+2022,Q1,2022-Q1,Java,Technical Skills,56.5,246,138236,23,32,45
+2022,Q1,2022-Q1,Problem Solving,Soft Skills,55.55,207,79743,34,33,33
+2022,Q1,2022-Q1,Content Marketing,Business Skills,49.21,226,72442,27,43,30
+2022,Q1,2022-Q1,Adobe Creative Suite,Tools & Software,45.6,158,244240,40,30,30
+2022,Q1,2022-Q1,React,Technical Skills,43.25,192,119436,24,37,39
+2022,Q1,2022-Q1,QuickBooks,Tools & Software,41.62,98,124251,38,45,17
+2022,Q1,2022-Q1,Leadership,Soft Skills,40.31,144,155952,36,30,34
+2022,Q1,2022-Q1,Adaptability,Soft Skills,39.05,149,165796,31,48,21
+2022,Q1,2022-Q1,Project Management,Business Skills,37.69,166,196120,27,33,40
+2022,Q1,2022-Q1,Tableau,Tools & Software,34.31,126,59754,29,45,26
+2022,Q1,2022-Q1,Digital Marketing,Business Skills,33.85,138,131777,38,42,20
+2022,Q1,2022-Q1,Communication,Soft Skills,33.85,118,226234,28,48,24
+2022,Q1,2022-Q1,Figma,Tools & Software,33.71,108,170521,22,40,38
+2022,Q1,2022-Q1,Kubernetes,Technical Skills,32.4,126,152346,28,44,28
+2022,Q1,2022-Q1,SAP,Tools & Software,31.77,102,143911,27,48,25
+2022,Q2,2022-Q2,Critical Thinking,Soft Skills,137.72,625,64711,29,41,30
+2022,Q2,2022-Q2,Business Analysis,Business Skills,127.65,300,246352,37,31,32
+2022,Q2,2022-Q2,SEO,Business Skills,125.96,562,176745,34,43,23
+2022,Q2,2022-Q2,Python,Technical Skills,125.44,476,114196,27,34,39
+2022,Q2,2022-Q2,Time Management,Soft Skills,122.74,445,90464,22,45,33
+2022,Q2,2022-Q2,Power BI,Tools & Software,121.42,592,145885,22,42,36
+2022,Q2,2022-Q2,Docker,Technical Skills,119.46,244,240896,30,33,37
+2022,Q2,2022-Q2,Node.js,Technical Skills,117.46,272,79242,29,43,28
+2022,Q2,2022-Q2,Machine Learning,Technical Skills,115.68,526,71491,33,48,19
+2022,Q2,2022-Q2,Salesforce,Tools & Software,115.1,429,134439,39,34,27
+2022,Q2,2022-Q2,AWS,Technical Skills,110.52,387,235556,40,31,29
+2022,Q2,2022-Q2,Cloud Computing,Technical Skills,106.67,225,92598,25,43,32
+2022,Q2,2022-Q2,Financial Analysis,Business Skills,104.05,235,213975,26,38,36
+2022,Q2,2022-Q2,Creativity,Soft Skills,102.27,307,75470,40,50,10
+2022,Q2,2022-Q2,AI,Technical Skills,101.74,370,137867,22,37,41
+2022,Q2,2022-Q2,Git,Tools & Software,100.47,331,108784,23,41,36
+2022,Q2,2022-Q2,Mobile Development,Technical Skills,96.32,220,155486,29,47,24
+2022,Q2,2022-Q2,DevOps,Technical Skills,94.29,387,137439,24,50,26
+2022,Q2,2022-Q2,JavaScript,Technical Skills,88.44,382,233977,40,32,28
+2022,Q2,2022-Q2,Excel,Tools & Software,85.23,389,169201,22,36,42
+2022,Q2,2022-Q2,Teamwork,Soft Skills,81.84,345,137147,37,47,16
+2022,Q2,2022-Q2,JIRA,Tools & Software,81.14,257,161873,30,38,32
+2022,Q2,2022-Q2,Cybersecurity,Technical Skills,79.14,323,96810,38,38,24
+2022,Q2,2022-Q2,Sales,Business Skills,77.53,248,100211,26,45,29
+2022,Q2,2022-Q2,Customer Service,Business Skills,75.07,208,175233,23,32,45
+2022,Q2,2022-Q2,Data Analysis,Technical Skills,75.05,233,234428,29,49,22
+2022,Q2,2022-Q2,Agile,Business Skills,69.49,337,89539,27,42,31
+2022,Q2,2022-Q2,Accounting Software,Business Skills,59.29,251,87286,22,31,47
+2022,Q2,2022-Q2,Content Marketing,Business Skills,59.1,295,178077,37,37,26
+2022,Q2,2022-Q2,SQL,Technical Skills,58.97,137,70645,22,45,33
+2022,Q2,2022-Q2,Problem Solving,Soft Skills,55.61,191,219793,24,45,31
+2022,Q2,2022-Q2,Scrum,Business Skills,54.77,224,57608,32,40,28
+2022,Q2,2022-Q2,Java,Technical Skills,54.65,193,149595,23,41,36
+2022,Q2,2022-Q2,React,Technical Skills,52.49,219,245294,37,47,16
+2022,Q2,2022-Q2,Adobe Creative Suite,Tools & Software,46.68,231,74053,36,36,28
+2022,Q2,2022-Q2,Leadership,Soft Skills,44.51,220,222401,37,44,19
+2022,Q2,2022-Q2,QuickBooks,Tools & Software,41.49,169,188132,29,31,40
+2022,Q2,2022-Q2,Adaptability,Soft Skills,36.3,167,128421,40,43,17
+2022,Q2,2022-Q2,Project Management,Business Skills,35.46,89,169658,24,44,32
+2022,Q2,2022-Q2,Digital Marketing,Business Skills,34.33,133,153980,26,32,42
+2022,Q2,2022-Q2,Tableau,Tools & Software,33.56,85,80440,23,37,40
+2022,Q2,2022-Q2,Figma,Tools & Software,32.83,127,200931,33,48,19
+2022,Q2,2022-Q2,SAP,Tools & Software,32.26,106,134874,20,35,45
+2022,Q2,2022-Q2,Communication,Soft Skills,29.94,108,60546,25,45,30
+2022,Q2,2022-Q2,Kubernetes,Technical Skills,29.91,91,124776,33,47,20
+2022,Q3,2022-Q3,Critical Thinking,Soft Skills,142.37,454,148262,33,34,33
+2022,Q3,2022-Q3,Time Management,Soft Skills,139.95,541,119474,30,49,21
+2022,Q3,2022-Q3,Cloud Computing,Technical Skills,135.34,416,56497,25,40,35
+2022,Q3,2022-Q3,Business Analysis,Business Skills,133.25,526,141740,27,50,23
+2022,Q3,2022-Q3,SEO,Business Skills,130.67,545,241634,38,38,24
+2022,Q3,2022-Q3,Machine Learning,Technical Skills,125.13,463,198170,36,40,24
+2022,Q3,2022-Q3,Power BI,Tools & Software,124.28,403,53648,28,47,25
+2022,Q3,2022-Q3,Creativity,Soft Skills,122.64,246,60334,29,44,27
+2022,Q3,2022-Q3,Salesforce,Tools & Software,122.57,448,67218,24,38,38
+2022,Q3,2022-Q3,Node.js,Technical Skills,121.15,473,91460,34,30,36
+2022,Q3,2022-Q3,AI,Technical Skills,120.59,380,226369,29,37,34
+2022,Q3,2022-Q3,Python,Technical Skills,120.56,297,243061,23,47,30
+2022,Q3,2022-Q3,Docker,Technical Skills,119.11,319,115183,26,36,38
+2022,Q3,2022-Q3,Financial Analysis,Business Skills,105.88,358,223127,22,35,43
+2022,Q3,2022-Q3,AWS,Technical Skills,101.4,287,110015,22,31,47
+2022,Q3,2022-Q3,Mobile Development,Technical Skills,99.56,340,83367,26,43,31
+2022,Q3,2022-Q3,DevOps,Technical Skills,95.22,274,118670,25,44,31
+2022,Q3,2022-Q3,Git,Tools & Software,94.67,421,195821,31,33,36
+2022,Q3,2022-Q3,Teamwork,Soft Skills,93.67,423,148883,34,40,26
+2022,Q3,2022-Q3,JavaScript,Technical Skills,92.35,432,209680,40,35,25
+2022,Q3,2022-Q3,Excel,Tools & Software,88.73,283,218218,40,49,11
+2022,Q3,2022-Q3,JIRA,Tools & Software,84.33,258,148120,24,45,31
+2022,Q3,2022-Q3,Agile,Business Skills,80.96,301,231914,24,36,40
+2022,Q3,2022-Q3,Customer Service,Business Skills,76.81,379,155043,35,32,33
+2022,Q3,2022-Q3,Cybersecurity,Technical Skills,74.99,188,60028,23,49,28
+2022,Q3,2022-Q3,Sales,Business Skills,68.83,143,122482,38,46,16
+2022,Q3,2022-Q3,Data Analysis,Technical Skills,65.71,314,221435,36,30,34
+2022,Q3,2022-Q3,Content Marketing,Business Skills,62.98,230,231039,35,50,15
+2022,Q3,2022-Q3,Problem Solving,Soft Skills,61.93,133,237853,29,46,25
+2022,Q3,2022-Q3,Java,Technical Skills,60.4,129,140165,39,38,23
+2022,Q3,2022-Q3,SQL,Technical Skills,59.03,193,68143,37,34,29
+2022,Q3,2022-Q3,Scrum,Business Skills,56.27,251,225341,32,35,33
+2022,Q3,2022-Q3,Accounting Software,Business Skills,55.83,153,93495,29,49,22
+2022,Q3,2022-Q3,React,Technical Skills,55.79,123,118876,38,43,19
+2022,Q3,2022-Q3,Adobe Creative Suite,Tools & Software,55.45,117,148617,33,44,23
+2022,Q3,2022-Q3,QuickBooks,Tools & Software,45.18,188,107807,32,49,19
+2022,Q3,2022-Q3,Adaptability,Soft Skills,44.95,166,230961,28,44,28
+2022,Q3,2022-Q3,Leadership,Soft Skills,43.06,137,158330,21,36,43
+2022,Q3,2022-Q3,Project Management,Business Skills,40.11,177,225001,36,47,17
+2022,Q3,2022-Q3,Tableau,Tools & Software,39.82,192,190914,24,42,34
+2022,Q3,2022-Q3,Digital Marketing,Business Skills,37.0,174,205214,40,37,23
+2022,Q3,2022-Q3,Figma,Tools & Software,36.49,180,156017,40,43,17
+2022,Q3,2022-Q3,Communication,Soft Skills,33.87,143,186043,40,44,16
+2022,Q3,2022-Q3,Kubernetes,Technical Skills,33.27,156,223505,35,34,31
+2022,Q3,2022-Q3,SAP,Tools & Software,31.54,152,119564,21,34,45
+2022,Q4,2022-Q4,Critical Thinking,Soft Skills,167.87,411,114014,36,43,21
+2022,Q4,2022-Q4,Business Analysis,Business Skills,155.92,584,67987,40,31,29
+2022,Q4,2022-Q4,Salesforce,Tools & Software,136.22,611,213661,40,48,12
+2022,Q4,2022-Q4,Node.js,Technical Skills,132.57,467,239292,28,46,26
+2022,Q4,2022-Q4,AI,Technical Skills,130.71,616,102200,24,30,46
+2022,Q4,2022-Q4,Python,Technical Skills,127.47,586,72790,38,43,19
+2022,Q4,2022-Q4,Cloud Computing,Technical Skills,127.07,453,157928,27,38,35
+2022,Q4,2022-Q4,SEO,Business Skills,126.28,411,134490,27,32,41
+2022,Q4,2022-Q4,Power BI,Tools & Software,126.27,630,82398,34,41,25
+2022,Q4,2022-Q4,Docker,Technical Skills,125.94,317,190584,34,34,32
+2022,Q4,2022-Q4,AWS,Technical Skills,124.1,337,136619,22,46,32
+2022,Q4,2022-Q4,Time Management,Soft Skills,123.1,593,231588,32,50,18
+2022,Q4,2022-Q4,Machine Learning,Technical Skills,120.36,373,118358,26,40,34
+2022,Q4,2022-Q4,Creativity,Soft Skills,115.14,367,58746,38,41,21
+2022,Q4,2022-Q4,DevOps,Technical Skills,112.36,497,194619,33,47,20
+2022,Q4,2022-Q4,Financial Analysis,Business Skills,111.08,343,112879,25,47,28
+2022,Q4,2022-Q4,Git,Tools & Software,108.87,444,249912,28,48,24
+2022,Q4,2022-Q4,Mobile Development,Technical Skills,96.0,316,224307,32,35,33
+2022,Q4,2022-Q4,JIRA,Tools & Software,94.67,273,67598,22,32,46
+2022,Q4,2022-Q4,JavaScript,Technical Skills,90.88,433,190021,27,35,38
+2022,Q4,2022-Q4,Teamwork,Soft Skills,88.22,386,99454,27,48,25
+2022,Q4,2022-Q4,Excel,Tools & Software,87.75,229,55598,21,40,39
+2022,Q4,2022-Q4,Sales,Business Skills,80.39,310,206445,29,33,38
+2022,Q4,2022-Q4,Customer Service,Business Skills,79.65,237,201262,40,31,29
+2022,Q4,2022-Q4,Agile,Business Skills,78.51,262,66837,33,43,24
+2022,Q4,2022-Q4,Data Analysis,Technical Skills,75.31,368,225076,37,39,24
+2022,Q4,2022-Q4,Cybersecurity,Technical Skills,73.27,201,163918,31,40,29
+2022,Q4,2022-Q4,SQL,Technical Skills,67.72,310,83657,35,47,18
+2022,Q4,2022-Q4,Accounting Software,Business Skills,66.08,309,246334,38,39,23
+2022,Q4,2022-Q4,Scrum,Business Skills,65.99,148,172523,24,49,27
+2022,Q4,2022-Q4,Content Marketing,Business Skills,62.18,300,236605,35,44,21
+2022,Q4,2022-Q4,Java,Technical Skills,61.79,155,61390,34,47,19
+2022,Q4,2022-Q4,Problem Solving,Soft Skills,61.31,147,234919,28,43,29
+2022,Q4,2022-Q4,Adobe Creative Suite,Tools & Software,54.61,260,139363,25,41,34
+2022,Q4,2022-Q4,React,Technical Skills,53.99,126,202969,32,41,27
+2022,Q4,2022-Q4,Leadership,Soft Skills,52.59,241,185905,31,49,20
+2022,Q4,2022-Q4,Adaptability,Soft Skills,44.29,211,129199,26,42,32
+2022,Q4,2022-Q4,QuickBooks,Tools & Software,43.9,129,64360,20,36,44
+2022,Q4,2022-Q4,Project Management,Business Skills,43.2,139,206094,30,44,26
+2022,Q4,2022-Q4,Tableau,Tools & Software,37.28,104,168919,31,47,22
+2022,Q4,2022-Q4,Figma,Tools & Software,36.84,119,125894,23,42,35
+2022,Q4,2022-Q4,SAP,Tools & Software,35.66,86,244436,33,46,21
+2022,Q4,2022-Q4,Kubernetes,Technical Skills,35.32,153,99780,29,36,35
+2022,Q4,2022-Q4,Digital Marketing,Business Skills,34.73,98,76712,29,49,22
+2022,Q4,2022-Q4,Communication,Soft Skills,33.49,79,122917,25,48,27
+2023,Q1,2023-Q1,Business Analysis,Business Skills,167.22,522,247717,20,37,43
+2023,Q1,2023-Q1,Cloud Computing,Technical Skills,156.3,413,91732,23,42,35
+2023,Q1,2023-Q1,Critical Thinking,Soft Skills,154.36,643,198354,25,35,40
+2023,Q1,2023-Q1,Python,Technical Skills,154.07,635,58331,20,32,48
+2023,Q1,2023-Q1,Node.js,Technical Skills,153.37,421,249743,25,46,29
+2023,Q1,2023-Q1,Power BI,Tools & Software,141.88,537,226377,28,48,24
+2023,Q1,2023-Q1,Time Management,Soft Skills,140.82,423,71054,30,47,23
+2023,Q1,2023-Q1,SEO,Business Skills,138.19,635,123119,34,37,29
+2023,Q1,2023-Q1,Machine Learning,Technical Skills,134.85,368,112570,28,42,30
+2023,Q1,2023-Q1,Docker,Technical Skills,130.87,413,160593,25,38,37
+2023,Q1,2023-Q1,Salesforce,Tools & Software,128.19,260,193748,30,42,28
+2023,Q1,2023-Q1,Creativity,Soft Skills,123.6,588,241983,24,32,44
+2023,Q1,2023-Q1,DevOps,Technical Skills,122.67,581,52534,23,32,45
+2023,Q1,2023-Q1,Financial Analysis,Business Skills,121.64,495,69677,25,30,45
+2023,Q1,2023-Q1,AI,Technical Skills,121.38,268,62114,27,45,28
+2023,Q1,2023-Q1,AWS,Technical Skills,109.79,380,112391,28,45,27
+2023,Q1,2023-Q1,Mobile Development,Technical Skills,103.65,398,211353,38,39,23
+2023,Q1,2023-Q1,Git,Tools & Software,100.98,380,109286,33,47,20
+2023,Q1,2023-Q1,JIRA,Tools & Software,94.66,324,74439,33,33,34
+2023,Q1,2023-Q1,Teamwork,Soft Skills,92.08,229,150393,27,43,30
+2023,Q1,2023-Q1,Data Analysis,Technical Skills,87.66,399,223903,23,34,43
+2023,Q1,2023-Q1,JavaScript,Technical Skills,85.89,222,171178,32,38,30
+2023,Q1,2023-Q1,Customer Service,Business Skills,84.35,229,89774,24,48,28
+2023,Q1,2023-Q1,Excel,Tools & Software,83.01,389,113850,24,48,28
+2023,Q1,2023-Q1,Sales,Business Skills,82.0,216,100886,29,37,34
+2023,Q1,2023-Q1,Cybersecurity,Technical Skills,81.83,339,164398,39,46,15
+2023,Q1,2023-Q1,Agile,Business Skills,75.53,225,136738,37,44,19
+2023,Q1,2023-Q1,Accounting Software,Business Skills,65.43,235,165121,23,44,33
+2023,Q1,2023-Q1,Content Marketing,Business Skills,65.03,178,54520,22,39,39
+2023,Q1,2023-Q1,React,Technical Skills,62.58,242,107493,24,46,30
+2023,Q1,2023-Q1,Scrum,Business Skills,59.86,296,190017,20,42,38
+2023,Q1,2023-Q1,Problem Solving,Soft Skills,59.58,296,176484,35,37,28
+2023,Q1,2023-Q1,SQL,Technical Skills,58.54,206,93287,28,46,26
+2023,Q1,2023-Q1,Java,Technical Skills,56.33,273,82722,32,32,36
+2023,Q1,2023-Q1,Leadership,Soft Skills,52.66,146,248297,35,50,15
+2023,Q1,2023-Q1,Adobe Creative Suite,Tools & Software,50.57,187,131693,30,48,22
+2023,Q1,2023-Q1,QuickBooks,Tools & Software,49.91,218,129015,26,34,40
+2023,Q1,2023-Q1,Adaptability,Soft Skills,45.71,112,176670,23,37,40
+2023,Q1,2023-Q1,Digital Marketing,Business Skills,43.73,204,81733,38,31,31
+2023,Q1,2023-Q1,Tableau,Tools & Software,40.53,130,159871,38,34,28
+2023,Q1,2023-Q1,Project Management,Business Skills,39.48,170,210603,36,43,21
+2023,Q1,2023-Q1,SAP,Tools & Software,37.46,129,79792,22,45,33
+2023,Q1,2023-Q1,Figma,Tools & Software,35.45,149,55467,30,35,35
+2023,Q1,2023-Q1,Kubernetes,Technical Skills,34.72,78,65331,38,47,15
+2023,Q1,2023-Q1,Communication,Soft Skills,33.14,102,164264,40,45,15
+2023,Q2,2023-Q2,Critical Thinking,Soft Skills,175.49,688,95893,22,49,29
+2023,Q2,2023-Q2,Machine Learning,Technical Skills,167.27,531,84308,40,39,21
+2023,Q2,2023-Q2,Cloud Computing,Technical Skills,164.09,370,60151,35,37,28
+2023,Q2,2023-Q2,Business Analysis,Business Skills,150.9,695,102261,20,49,31
+2023,Q2,2023-Q2,Python,Technical Skills,147.46,723,107314,27,46,27
+2023,Q2,2023-Q2,Node.js,Technical Skills,143.45,612,77894,40,39,21
+2023,Q2,2023-Q2,Docker,Technical Skills,141.18,340,171275,27,32,41
+2023,Q2,2023-Q2,AWS,Technical Skills,133.55,364,106160,37,34,29
+2023,Q2,2023-Q2,Power BI,Tools & Software,133.42,567,149883,40,41,19
+2023,Q2,2023-Q2,Time Management,Soft Skills,131.23,575,149617,30,50,20
+2023,Q2,2023-Q2,Salesforce,Tools & Software,130.09,611,206602,36,39,25
+2023,Q2,2023-Q2,AI,Technical Skills,128.44,263,210241,22,44,34
+2023,Q2,2023-Q2,DevOps,Technical Skills,123.7,433,231146,24,47,29
+2023,Q2,2023-Q2,Creativity,Soft Skills,122.48,372,127361,30,43,27
+2023,Q2,2023-Q2,SEO,Business Skills,119.08,247,246732,34,48,18
+2023,Q2,2023-Q2,Financial Analysis,Business Skills,113.67,499,157090,34,49,17
+2023,Q2,2023-Q2,Mobile Development,Technical Skills,111.92,239,156450,37,30,33
+2023,Q2,2023-Q2,Git,Tools & Software,105.94,240,212981,39,50,11
+2023,Q2,2023-Q2,JIRA,Tools & Software,99.37,478,245189,31,34,35
+2023,Q2,2023-Q2,Teamwork,Soft Skills,94.08,418,61441,30,45,25
+2023,Q2,2023-Q2,JavaScript,Technical Skills,89.34,265,217772,37,37,26
+2023,Q2,2023-Q2,Cybersecurity,Technical Skills,86.14,244,80315,32,48,20
+2023,Q2,2023-Q2,Agile,Business Skills,83.95,357,158992,21,36,43
+2023,Q2,2023-Q2,Data Analysis,Technical Skills,80.77,254,119328,23,33,44
+2023,Q2,2023-Q2,Excel,Tools & Software,79.72,179,103793,22,47,31
+2023,Q2,2023-Q2,Customer Service,Business Skills,77.45,184,129648,22,37,41
+2023,Q2,2023-Q2,Sales,Business Skills,75.25,153,144602,25,39,36
+2023,Q2,2023-Q2,Java,Technical Skills,68.79,304,194714,29,50,21
+2023,Q2,2023-Q2,Scrum,Business Skills,65.55,203,205161,38,30,32
+2023,Q2,2023-Q2,SQL,Technical Skills,65.15,173,209014,33,36,31
+2023,Q2,2023-Q2,Problem Solving,Soft Skills,64.85,287,169743,37,34,29
+2023,Q2,2023-Q2,Content Marketing,Business Skills,61.98,147,108090,32,37,31
+2023,Q2,2023-Q2,Accounting Software,Business Skills,61.96,207,230532,29,42,29
+2023,Q2,2023-Q2,Adobe Creative Suite,Tools & Software,60.27,126,206296,22,31,47
+2023,Q2,2023-Q2,React,Technical Skills,59.19,129,179372,22,31,47
+2023,Q2,2023-Q2,QuickBooks,Tools & Software,49.16,190,116982,29,40,31
+2023,Q2,2023-Q2,Leadership,Soft Skills,47.65,190,165878,21,36,43
+2023,Q2,2023-Q2,Adaptability,Soft Skills,45.9,175,149972,38,41,21
+2023,Q2,2023-Q2,Digital Marketing,Business Skills,41.74,161,141017,37,43,20
+2023,Q2,2023-Q2,Project Management,Business Skills,40.41,193,193621,34,35,31
+2023,Q2,2023-Q2,SAP,Tools & Software,38.77,170,167512,31,46,23
+2023,Q2,2023-Q2,Tableau,Tools & Software,36.72,90,158759,40,33,27
+2023,Q2,2023-Q2,Communication,Soft Skills,36.36,134,73918,35,41,24
+2023,Q2,2023-Q2,Figma,Tools & Software,35.16,81,212037,34,41,25
+2023,Q2,2023-Q2,Kubernetes,Technical Skills,32.42,152,65979,30,31,39
+2023,Q3,2023-Q3,Python,Technical Skills,187.85,495,207815,20,47,33
+2023,Q3,2023-Q3,Critical Thinking,Soft Skills,179.85,652,150281,39,37,24
+2023,Q3,2023-Q3,Machine Learning,Technical Skills,177.98,692,169858,30,32,38
+2023,Q3,2023-Q3,Cloud Computing,Technical Skills,157.46,565,102316,34,41,25
+2023,Q3,2023-Q3,Salesforce,Tools & Software,155.28,588,168938,36,49,15
+2023,Q3,2023-Q3,Business Analysis,Business Skills,153.41,750,89946,27,34,39
+2023,Q3,2023-Q3,Time Management,Soft Skills,149.17,537,238407,35,47,18
+2023,Q3,2023-Q3,Node.js,Technical Skills,142.29,317,217496,36,49,15
+2023,Q3,2023-Q3,Power BI,Tools & Software,141.72,665,78402,27,45,28
+2023,Q3,2023-Q3,DevOps,Technical Skills,141.25,557,59444,31,48,21
+2023,Q3,2023-Q3,AI,Technical Skills,138.53,560,158643,40,48,12
+2023,Q3,2023-Q3,Creativity,Soft Skills,136.33,457,96042,26,34,40
+2023,Q3,2023-Q3,Financial Analysis,Business Skills,132.26,296,173184,29,31,40
+2023,Q3,2023-Q3,SEO,Business Skills,131.59,583,209994,32,40,28
+2023,Q3,2023-Q3,AWS,Technical Skills,129.69,555,239622,38,48,14
+2023,Q3,2023-Q3,Docker,Technical Skills,129.48,303,166164,37,33,30
+2023,Q3,2023-Q3,Git,Tools & Software,121.61,293,195945,20,49,31
+2023,Q3,2023-Q3,Mobile Development,Technical Skills,109.43,424,129658,29,36,35
+2023,Q3,2023-Q3,Teamwork,Soft Skills,107.31,383,234871,32,42,26
+2023,Q3,2023-Q3,JIRA,Tools & Software,103.72,274,195849,21,48,31
+2023,Q3,2023-Q3,JavaScript,Technical Skills,100.89,283,229467,30,31,39
+2023,Q3,2023-Q3,Data Analysis,Technical Skills,94.66,279,244620,37,34,29
+2023,Q3,2023-Q3,Cybersecurity,Technical Skills,93.79,395,99828,28,31,41
+2023,Q3,2023-Q3,Agile,Business Skills,88.46,386,160138,32,48,20
+2023,Q3,2023-Q3,Excel,Tools & Software,84.83,176,104305,38,36,26
+2023,Q3,2023-Q3,Sales,Business Skills,81.09,305,53708,37,34,29
+2023,Q3,2023-Q3,Customer Service,Business Skills,80.68,198,81051,37,43,20
+2023,Q3,2023-Q3,Scrum,Business Skills,73.59,356,72006,40,43,17
+2023,Q3,2023-Q3,Content Marketing,Business Skills,70.33,268,130270,38,41,21
+2023,Q3,2023-Q3,Accounting Software,Business Skills,69.71,190,121367,36,47,17
+2023,Q3,2023-Q3,Problem Solving,Soft Skills,65.86,266,150554,26,49,25
+2023,Q3,2023-Q3,SQL,Technical Skills,62.43,188,191373,26,39,35
+2023,Q3,2023-Q3,React,Technical Skills,61.89,184,78743,24,50,26
+2023,Q3,2023-Q3,Java,Technical Skills,61.68,141,212141,31,48,21
+2023,Q3,2023-Q3,Adobe Creative Suite,Tools & Software,59.58,172,90784,25,49,26
+2023,Q3,2023-Q3,Leadership,Soft Skills,57.05,209,120007,37,34,29
+2023,Q3,2023-Q3,QuickBooks,Tools & Software,56.59,217,81453,20,45,35
+2023,Q3,2023-Q3,Project Management,Business Skills,46.07,151,244944,35,44,21
+2023,Q3,2023-Q3,Adaptability,Soft Skills,45.86,193,200683,29,39,32
+2023,Q3,2023-Q3,Tableau,Tools & Software,43.6,173,178279,39,43,18
+2023,Q3,2023-Q3,Digital Marketing,Business Skills,42.25,108,223413,31,32,37
+2023,Q3,2023-Q3,Figma,Tools & Software,37.1,106,73102,33,33,34
+2023,Q3,2023-Q3,Kubernetes,Technical Skills,36.58,74,63144,38,45,17
+2023,Q3,2023-Q3,SAP,Tools & Software,36.46,75,205625,23,44,33
+2023,Q3,2023-Q3,Communication,Soft Skills,35.0,173,157046,30,40,30
+2023,Q4,2023-Q4,Machine Learning,Technical Skills,188.75,662,52441,34,49,17
+2023,Q4,2023-Q4,Cloud Computing,Technical Skills,188.33,736,130003,27,37,36
+2023,Q4,2023-Q4,Python,Technical Skills,178.13,454,102124,40,47,13
+2023,Q4,2023-Q4,Critical Thinking,Soft Skills,169.48,514,180460,38,34,28
+2023,Q4,2023-Q4,Time Management,Soft Skills,161.86,706,59410,39,32,29
+2023,Q4,2023-Q4,SEO,Business Skills,152.52,373,57523,35,40,25
+2023,Q4,2023-Q4,Salesforce,Tools & Software,151.81,606,162774,23,33,44
+2023,Q4,2023-Q4,Business Analysis,Business Skills,150.94,741,174141,23,48,29
+2023,Q4,2023-Q4,DevOps,Technical Skills,149.78,657,194841,24,43,33
+2023,Q4,2023-Q4,Docker,Technical Skills,149.45,692,63261,40,47,13
+2023,Q4,2023-Q4,AI,Technical Skills,148.85,440,100970,32,45,23
+2023,Q4,2023-Q4,Node.js,Technical Skills,148.45,368,102143,24,41,35
+2023,Q4,2023-Q4,Power BI,Tools & Software,145.83,375,56560,39,47,14
+2023,Q4,2023-Q4,Financial Analysis,Business Skills,142.75,679,110680,29,39,32
+2023,Q4,2023-Q4,Creativity,Soft Skills,126.67,425,191402,31,46,23
+2023,Q4,2023-Q4,Git,Tools & Software,126.02,420,222446,28,30,42
+2023,Q4,2023-Q4,AWS,Technical Skills,122.36,512,173907,27,45,28
+2023,Q4,2023-Q4,Mobile Development,Technical Skills,115.68,528,162692,38,49,13
+2023,Q4,2023-Q4,JavaScript,Technical Skills,115.47,354,110043,21,40,39
+2023,Q4,2023-Q4,Teamwork,Soft Skills,103.98,481,223982,40,34,26
+2023,Q4,2023-Q4,JIRA,Tools & Software,92.51,257,197216,37,40,23
+2023,Q4,2023-Q4,Cybersecurity,Technical Skills,89.51,343,235803,33,30,37
+2023,Q4,2023-Q4,Data Analysis,Technical Skills,86.73,318,121394,29,49,22
+2023,Q4,2023-Q4,Excel,Tools & Software,86.04,322,111079,30,34,36
+2023,Q4,2023-Q4,Sales,Business Skills,84.24,279,121909,21,31,48
+2023,Q4,2023-Q4,Customer Service,Business Skills,83.3,326,208942,39,49,12
+2023,Q4,2023-Q4,Agile,Business Skills,79.05,275,232327,20,48,32
+2023,Q4,2023-Q4,Scrum,Business Skills,78.27,333,85572,34,35,31
+2023,Q4,2023-Q4,Problem Solving,Soft Skills,75.05,284,183232,24,32,44
+2023,Q4,2023-Q4,SQL,Technical Skills,75.03,222,154593,40,41,19
+2023,Q4,2023-Q4,React,Technical Skills,70.64,276,91938,33,49,18
+2023,Q4,2023-Q4,Accounting Software,Business Skills,68.04,213,179445,34,32,34
+2023,Q4,2023-Q4,Java,Technical Skills,67.89,225,100407,22,31,47
+2023,Q4,2023-Q4,Adobe Creative Suite,Tools & Software,64.04,314,63044,22,38,40
+2023,Q4,2023-Q4,Content Marketing,Business Skills,62.81,252,174062,37,46,17
+2023,Q4,2023-Q4,Leadership,Soft Skills,54.89,155,125505,34,45,21
+2023,Q4,2023-Q4,Adaptability,Soft Skills,52.13,249,55751,32,38,30
+2023,Q4,2023-Q4,QuickBooks,Tools & Software,51.22,106,245825,33,35,32
+2023,Q4,2023-Q4,Project Management,Business Skills,46.5,198,117945,27,50,23
+2023,Q4,2023-Q4,Digital Marketing,Business Skills,46.1,141,182634,40,40,20
+2023,Q4,2023-Q4,Tableau,Tools & Software,38.97,103,123332,21,41,38
+2023,Q4,2023-Q4,Figma,Tools & Software,37.75,101,113783,33,48,19
+2023,Q4,2023-Q4,Communication,Soft Skills,37.54,101,225671,23,35,42
+2023,Q4,2023-Q4,SAP,Tools & Software,36.36,131,182078,27,49,24
+2023,Q4,2023-Q4,Kubernetes,Technical Skills,33.96,135,181819,36,35,29
+2024,Q1,2024-Q1,Cloud Computing,Technical Skills,210.87,1039,56203,26,42,32
+2024,Q1,2024-Q1,Python,Technical Skills,197.41,705,159974,27,44,29
+2024,Q1,2024-Q1,Machine Learning,Technical Skills,195.46,679,197585,23,32,45
+2024,Q1,2024-Q1,AI,Technical Skills,187.97,389,154766,27,34,39
+2024,Q1,2024-Q1,Node.js,Technical Skills,173.33,766,249887,25,47,28
+2024,Q1,2024-Q1,Critical Thinking,Soft Skills,171.98,812,110866,34,50,16
+2024,Q1,2024-Q1,DevOps,Technical Skills,167.61,505,83409,21,39,40
+2024,Q1,2024-Q1,Business Analysis,Business Skills,156.54,731,107138,34,38,28
+2024,Q1,2024-Q1,SEO,Business Skills,145.84,458,97668,35,36,29
+2024,Q1,2024-Q1,Power BI,Tools & Software,144.82,494,135984,39,37,24
+2024,Q1,2024-Q1,Time Management,Soft Skills,143.78,422,111543,40,39,21
+2024,Q1,2024-Q1,Salesforce,Tools & Software,143.33,679,221629,40,47,13
+2024,Q1,2024-Q1,Docker,Technical Skills,135.01,537,53868,22,37,41
+2024,Q1,2024-Q1,AWS,Technical Skills,129.49,504,156708,26,33,41
+2024,Q1,2024-Q1,Creativity,Soft Skills,128.16,324,181542,28,35,37
+2024,Q1,2024-Q1,Financial Analysis,Business Skills,124.8,353,234283,34,32,34
+2024,Q1,2024-Q1,Mobile Development,Technical Skills,122.86,305,221627,30,44,26
+2024,Q1,2024-Q1,Git,Tools & Software,111.58,404,97294,28,39,33
+2024,Q1,2024-Q1,JavaScript,Technical Skills,108.78,394,155162,28,32,40
+2024,Q1,2024-Q1,Teamwork,Soft Skills,107.84,479,179847,21,34,45
+2024,Q1,2024-Q1,JIRA,Tools & Software,107.14,230,225639,23,43,34
+2024,Q1,2024-Q1,Data Analysis,Technical Skills,106.02,433,105215,30,36,34
+2024,Q1,2024-Q1,Sales,Business Skills,95.84,291,195059,29,34,37
+2024,Q1,2024-Q1,Excel,Tools & Software,92.26,431,206233,20,38,42
+2024,Q1,2024-Q1,Cybersecurity,Technical Skills,89.74,246,186293,37,36,27
+2024,Q1,2024-Q1,Customer Service,Business Skills,86.59,262,109162,36,42,22
+2024,Q1,2024-Q1,Agile,Business Skills,80.83,294,149714,35,30,35
+2024,Q1,2024-Q1,React,Technical Skills,76.41,261,66653,32,42,26
+2024,Q1,2024-Q1,Problem Solving,Soft Skills,73.05,236,122416,33,40,27
+2024,Q1,2024-Q1,Scrum,Business Skills,71.65,161,63181,28,42,30
+2024,Q1,2024-Q1,SQL,Technical Skills,70.56,289,164845,36,44,20
+2024,Q1,2024-Q1,Content Marketing,Business Skills,70.02,215,140113,33,47,20
+2024,Q1,2024-Q1,Accounting Software,Business Skills,66.42,197,206771,21,43,36
+2024,Q1,2024-Q1,Adobe Creative Suite,Tools & Software,66.21,226,166159,33,45,22
+2024,Q1,2024-Q1,Java,Technical Skills,61.74,215,223346,27,39,34
+2024,Q1,2024-Q1,QuickBooks,Tools & Software,59.86,123,83865,32,47,21
+2024,Q1,2024-Q1,Leadership,Soft Skills,58.74,150,81831,20,50,30
+2024,Q1,2024-Q1,Digital Marketing,Business Skills,49.57,110,53316,33,45,22
+2024,Q1,2024-Q1,Adaptability,Soft Skills,48.92,114,52122,38,31,31
+2024,Q1,2024-Q1,Project Management,Business Skills,41.98,197,122695,36,45,19
+2024,Q1,2024-Q1,Tableau,Tools & Software,41.95,168,106955,34,44,22
+2024,Q1,2024-Q1,SAP,Tools & Software,40.32,111,61367,36,39,25
+2024,Q1,2024-Q1,Figma,Tools & Software,36.82,75,154975,36,32,32
+2024,Q1,2024-Q1,Communication,Soft Skills,34.51,84,136456,33,45,22
+2024,Q1,2024-Q1,Kubernetes,Technical Skills,34.24,85,64910,36,32,32
+2024,Q2,2024-Q2,Python,Technical Skills,218.87,628,204472,28,30,42
+2024,Q2,2024-Q2,Cloud Computing,Technical Skills,218.6,649,136051,28,32,40
+2024,Q2,2024-Q2,AI,Technical Skills,201.85,574,221981,20,33,47
+2024,Q2,2024-Q2,Machine Learning,Technical Skills,195.22,813,190937,26,46,28
+2024,Q2,2024-Q2,Critical Thinking,Soft Skills,192.35,616,116578,34,38,28
+2024,Q2,2024-Q2,Business Analysis,Business Skills,178.43,888,146703,25,49,26
+2024,Q2,2024-Q2,Node.js,Technical Skills,168.79,778,189029,20,49,31
+2024,Q2,2024-Q2,Power BI,Tools & Software,166.53,365,219778,22,50,28
+2024,Q2,2024-Q2,DevOps,Technical Skills,163.74,373,145591,21,41,38
+2024,Q2,2024-Q2,SEO,Business Skills,161.3,730,143015,28,40,32
+2024,Q2,2024-Q2,Docker,Technical Skills,155.41,569,93597,33,45,22
+2024,Q2,2024-Q2,Salesforce,Tools & Software,155.31,489,238963,26,43,31
+2024,Q2,2024-Q2,Time Management,Soft Skills,151.18,639,109634,22,43,35
+2024,Q2,2024-Q2,Financial Analysis,Business Skills,149.55,634,230193,27,38,35
+2024,Q2,2024-Q2,Creativity,Soft Skills,142.17,463,117363,35,39,26
+2024,Q2,2024-Q2,AWS,Technical Skills,140.66,507,75409,33,41,26
+2024,Q2,2024-Q2,Git,Tools & Software,131.8,553,139082,31,30,39
+2024,Q2,2024-Q2,Teamwork,Soft Skills,112.13,351,181672,38,40,22
+2024,Q2,2024-Q2,Mobile Development,Technical Skills,112.11,440,165811,34,36,30
+2024,Q2,2024-Q2,JavaScript,Technical Skills,110.87,488,105307,38,40,22
+2024,Q2,2024-Q2,JIRA,Tools & Software,108.22,410,142693,33,31,36
+2024,Q2,2024-Q2,Data Analysis,Technical Skills,103.82,237,230223,40,38,22
+2024,Q2,2024-Q2,Customer Service,Business Skills,102.81,351,168099,34,39,27
+2024,Q2,2024-Q2,Excel,Tools & Software,101.68,307,87929,24,47,29
+2024,Q2,2024-Q2,Sales,Business Skills,91.59,398,217213,35,33,32
+2024,Q2,2024-Q2,Cybersecurity,Technical Skills,91.24,389,145478,33,32,35
+2024,Q2,2024-Q2,Agile,Business Skills,90.27,420,142211,29,42,29
+2024,Q2,2024-Q2,Scrum,Business Skills,79.87,293,135813,26,44,30
+2024,Q2,2024-Q2,Problem Solving,Soft Skills,73.39,351,183100,28,30,42
+2024,Q2,2024-Q2,Accounting Software,Business Skills,71.31,212,242553,30,49,21
+2024,Q2,2024-Q2,SQL,Technical Skills,69.75,342,81720,27,37,36
+2024,Q2,2024-Q2,React,Technical Skills,68.8,284,206208,34,46,20
+2024,Q2,2024-Q2,Adobe Creative Suite,Tools & Software,67.16,304,209141,34,43,23
+2024,Q2,2024-Q2,Content Marketing,Business Skills,65.01,261,136714,31,44,25
+2024,Q2,2024-Q2,Java,Technical Skills,61.78,292,70916,27,33,40
+2024,Q2,2024-Q2,QuickBooks,Tools & Software,61.71,221,234463,27,46,27
+2024,Q2,2024-Q2,Digital Marketing,Business Skills,56.05,277,77666,33,41,26
+2024,Q2,2024-Q2,Adaptability,Soft Skills,55.82,252,208965,35,39,26
+2024,Q2,2024-Q2,Leadership,Soft Skills,55.39,181,209612,27,35,38
+2024,Q2,2024-Q2,Project Management,Business Skills,47.02,210,214298,27,38,35
+2024,Q2,2024-Q2,Figma,Tools & Software,45.83,150,153747,29,40,31
+2024,Q2,2024-Q2,Tableau,Tools & Software,41.28,95,111895,31,33,36
+2024,Q2,2024-Q2,Kubernetes,Technical Skills,39.52,161,98712,22,49,29
+2024,Q2,2024-Q2,SAP,Tools & Software,37.53,169,170073,40,30,30
+2024,Q2,2024-Q2,Communication,Soft Skills,36.3,90,125554,32,47,21
+2024,Q3,2024-Q3,Cloud Computing,Technical Skills,249.22,700,123170,31,50,19
+2024,Q3,2024-Q3,Python,Technical Skills,245.0,592,248916,25,43,32
+2024,Q3,2024-Q3,Machine Learning,Technical Skills,214.68,445,119520,24,41,35
+2024,Q3,2024-Q3,Critical Thinking,Soft Skills,193.39,936,224808,20,44,36
+2024,Q3,2024-Q3,AI,Technical Skills,189.44,774,161449,27,35,38
+2024,Q3,2024-Q3,DevOps,Technical Skills,184.19,388,105070,27,33,40
+2024,Q3,2024-Q3,Node.js,Technical Skills,179.62,459,134975,35,30,35
+2024,Q3,2024-Q3,Power BI,Tools & Software,178.66,600,171704,29,50,21
+2024,Q3,2024-Q3,Business Analysis,Business Skills,167.19,612,209186,23,35,42
+2024,Q3,2024-Q3,Salesforce,Tools & Software,163.23,349,168372,27,43,30
+2024,Q3,2024-Q3,SEO,Business Skills,162.14,552,123310,39,38,23
+2024,Q3,2024-Q3,Creativity,Soft Skills,158.64,489,245706,30,33,37
+2024,Q3,2024-Q3,Docker,Technical Skills,151.41,412,176185,26,42,32
+2024,Q3,2024-Q3,Time Management,Soft Skills,148.66,551,75806,40,33,27
+2024,Q3,2024-Q3,Financial Analysis,Business Skills,135.99,357,213855,38,36,26
+2024,Q3,2024-Q3,Git,Tools & Software,134.07,533,97554,24,48,28
+2024,Q3,2024-Q3,AWS,Technical Skills,129.55,583,161038,33,44,23
+2024,Q3,2024-Q3,Teamwork,Soft Skills,116.05,337,76309,34,33,33
+2024,Q3,2024-Q3,JavaScript,Technical Skills,114.75,569,105738,40,45,15
+2024,Q3,2024-Q3,Mobile Development,Technical Skills,114.37,429,184001,35,35,30
+2024,Q3,2024-Q3,Data Analysis,Technical Skills,109.98,546,182489,35,38,27
+2024,Q3,2024-Q3,JIRA,Tools & Software,107.85,465,125400,39,39,22
+2024,Q3,2024-Q3,Customer Service,Business Skills,101.39,255,204278,33,39,28
+2024,Q3,2024-Q3,Excel,Tools & Software,92.83,291,115707,25,33,42
+2024,Q3,2024-Q3,Sales,Business Skills,92.13,356,53215,38,39,23
+2024,Q3,2024-Q3,Agile,Business Skills,91.27,214,159843,37,47,16
+2024,Q3,2024-Q3,Cybersecurity,Technical Skills,87.36,205,224125,30,49,21
+2024,Q3,2024-Q3,Problem Solving,Soft Skills,83.1,406,124144,29,48,23
+2024,Q3,2024-Q3,React,Technical Skills,82.26,303,115906,37,30,33
+2024,Q3,2024-Q3,SQL,Technical Skills,79.9,220,66784,30,30,40
+2024,Q3,2024-Q3,Scrum,Business Skills,76.77,362,135680,30,42,28
+2024,Q3,2024-Q3,Content Marketing,Business Skills,72.87,314,121019,29,38,33
+2024,Q3,2024-Q3,Accounting Software,Business Skills,72.02,336,115632,20,32,48
+2024,Q3,2024-Q3,Java,Technical Skills,66.13,263,149647,28,44,28
+2024,Q3,2024-Q3,QuickBooks,Tools & Software,64.32,282,196466,31,32,37
+2024,Q3,2024-Q3,Adobe Creative Suite,Tools & Software,62.17,278,121609,26,46,28
+2024,Q3,2024-Q3,Leadership,Soft Skills,59.22,161,131461,37,30,33
+2024,Q3,2024-Q3,Digital Marketing,Business Skills,55.88,201,216614,34,34,32
+2024,Q3,2024-Q3,Tableau,Tools & Software,49.86,126,229746,31,47,22
+2024,Q3,2024-Q3,Adaptability,Soft Skills,48.48,230,110324,39,41,20
+2024,Q3,2024-Q3,Project Management,Business Skills,46.64,218,165309,22,39,39
+2024,Q3,2024-Q3,SAP,Tools & Software,45.7,163,65945,35,42,23
+2024,Q3,2024-Q3,Figma,Tools & Software,42.01,169,108083,30,35,35
+2024,Q3,2024-Q3,Kubernetes,Technical Skills,41.54,111,67815,27,42,31
+2024,Q3,2024-Q3,Communication,Soft Skills,36.56,104,59619,34,32,34
+2024,Q4,2024-Q4,Cloud Computing,Technical Skills,251.05,561,183537,32,47,21
+2024,Q4,2024-Q4,Machine Learning,Technical Skills,249.55,631,68033,27,41,32
+2024,Q4,2024-Q4,Python,Technical Skills,248.05,768,139194,28,34,38
+2024,Q4,2024-Q4,AI,Technical Skills,227.22,1052,232429,36,44,20
+2024,Q4,2024-Q4,Business Analysis,Business Skills,205.93,735,131536,23,48,29
+2024,Q4,2024-Q4,DevOps,Technical Skills,194.51,705,142714,37,43,20
+2024,Q4,2024-Q4,Node.js,Technical Skills,188.11,680,79325,31,39,30
+2024,Q4,2024-Q4,Critical Thinking,Soft Skills,186.8,702,125400,37,35,28
+2024,Q4,2024-Q4,Time Management,Soft Skills,177.74,822,166307,25,39,36
+2024,Q4,2024-Q4,Power BI,Tools & Software,175.26,582,157032,23,34,43
+2024,Q4,2024-Q4,Salesforce,Tools & Software,156.31,658,138848,34,42,24
+2024,Q4,2024-Q4,SEO,Business Skills,153.75,433,195697,20,46,34
+2024,Q4,2024-Q4,Creativity,Soft Skills,153.31,597,172770,22,34,44
+2024,Q4,2024-Q4,Financial Analysis,Business Skills,145.62,502,161447,23,47,30
+2024,Q4,2024-Q4,Docker,Technical Skills,142.42,668,65370,25,42,33
+2024,Q4,2024-Q4,Mobile Development,Technical Skills,141.57,527,222713,22,39,39
+2024,Q4,2024-Q4,AWS,Technical Skills,140.13,358,241122,21,50,29
+2024,Q4,2024-Q4,JavaScript,Technical Skills,138.87,360,153712,40,44,16
+2024,Q4,2024-Q4,Git,Tools & Software,135.12,614,222318,32,32,36
+2024,Q4,2024-Q4,Teamwork,Soft Skills,126.39,443,187874,34,30,36
+2024,Q4,2024-Q4,JIRA,Tools & Software,105.85,235,142181,23,48,29
+2024,Q4,2024-Q4,Data Analysis,Technical Skills,104.76,372,63316,22,50,28
+2024,Q4,2024-Q4,Sales,Business Skills,103.92,503,173049,35,44,21
+2024,Q4,2024-Q4,Excel,Tools & Software,101.27,283,223292,20,34,46
+2024,Q4,2024-Q4,Customer Service,Business Skills,94.83,201,199062,39,31,30
+2024,Q4,2024-Q4,Cybersecurity,Technical Skills,90.62,192,132291,23,39,38
+2024,Q4,2024-Q4,Agile,Business Skills,89.98,385,208139,27,45,28
+2024,Q4,2024-Q4,React,Technical Skills,86.55,301,228332,23,47,30
+2024,Q4,2024-Q4,Accounting Software,Business Skills,81.79,330,110011,38,48,14
+2024,Q4,2024-Q4,Content Marketing,Business Skills,75.05,341,110434,23,36,41
+2024,Q4,2024-Q4,SQL,Technical Skills,74.56,216,204221,37,37,26
+2024,Q4,2024-Q4,Problem Solving,Soft Skills,74.25,311,202023,35,34,31
+2024,Q4,2024-Q4,Scrum,Business Skills,74.04,257,122943,33,38,29
+2024,Q4,2024-Q4,Java,Technical Skills,68.2,242,216640,31,35,34
+2024,Q4,2024-Q4,QuickBooks,Tools & Software,66.97,204,154089,21,43,36
+2024,Q4,2024-Q4,Adobe Creative Suite,Tools & Software,60.29,228,79836,31,43,26
+2024,Q4,2024-Q4,Adaptability,Soft Skills,57.98,206,107410,40,36,24
+2024,Q4,2024-Q4,Leadership,Soft Skills,56.21,215,194769,33,32,35
+2024,Q4,2024-Q4,Digital Marketing,Business Skills,54.29,241,164160,25,46,29
+2024,Q4,2024-Q4,Tableau,Tools & Software,49.93,135,219037,31,31,38
+2024,Q4,2024-Q4,Project Management,Business Skills,48.73,99,111471,28,40,32
+2024,Q4,2024-Q4,Kubernetes,Technical Skills,43.29,117,81427,38,37,25
+2024,Q4,2024-Q4,Figma,Tools & Software,41.8,202,70022,36,50,14
+2024,Q4,2024-Q4,SAP,Tools & Software,40.09,112,161745,23,45,32
+2024,Q4,2024-Q4,Communication,Soft Skills,37.19,174,132448,28,40,32

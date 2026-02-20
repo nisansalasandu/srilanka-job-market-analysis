@@ -1,0 +1,601 @@
+Job_ID,Post_Date,Industry,Job_Role,Location,Required_Skills,Experience_Years,Salary_LKR,Job_Type,Remote_Option,Applications_Received,Time_to_Fill_Days,Year,Month,Quarter
+JOB0472,2022-01-01,IT/Software,QA Engineer,Jaffna,"API Testing, Test Automation, Manual Testing",4,81721,Freelance,No,90,17,2022,1,Q1
+JOB0022,2022-01-05,E-commerce,Content Writer,Colombo,"Research, SEO Writing, WordPress, Content Writing",4,74890,Full-time,Yes,198,84,2022,1,Q1
+JOB0566,2022-01-07,E-commerce,Graphic Designer,Kurunegala,"Adobe Photoshop, InDesign, Illustrator, Creativity",6,89692,Full-time,Hybrid,175,26,2022,1,Q1
+JOB0344,2022-01-10,Telecommunications,Customer Care Executive,Matara,"Communication, Teamwork, Problem Solving",2,87444,Full-time,No,32,31,2022,1,Q1
+JOB0048,2022-01-13,Healthcare,Pharmacist,Gampaha,"Communication, Teamwork, Problem Solving",6,162232,Full-time,No,164,43,2022,1,Q1
+JOB0429,2022-01-14,Banking,Relationship Manager,Gampaha,"Communication, Teamwork, Problem Solving",5,133214,Full-time,No,157,50,2022,1,Q1
+JOB0334,2022-01-16,Banking,Branch Manager,Kandy,"Communication, Teamwork, Problem Solving",10,143591,Full-time,No,37,76,2022,1,Q1
+JOB0432,2022-01-18,IT/Software,Data Analyst,Kurunegala,"Tableau, Python, Power BI, SQL, Excel, Statistics",4,223802,Full-time,No,166,58,2022,1,Q1
+JOB0382,2022-01-19,BPO/Customer Service,Chat Support Agent,Colombo,"Communication, Teamwork, Problem Solving",3,69207,Contract,No,169,46,2022,1,Q1
+JOB0224,2022-01-20,Finance & Accounting,Accountant,Jaffna,"Tax Knowledge, Financial Reporting, Excel, QuickBooks, Tally",3,90115,Contract,No,155,75,2022,1,Q1
+JOB0232,2022-01-26,Tourism & Hospitality,Restaurant Manager,Galle,"Communication, Teamwork, Problem Solving",1,60414,Part-time,No,72,88,2022,1,Q1
+JOB0377,2022-01-27,Tourism & Hospitality,Tour Guide,Negombo,"Communication, Teamwork, Problem Solving",7,75669,Contract,Hybrid,190,62,2022,1,Q1
+JOB0082,2022-01-29,Banking,Loan Officer,Galle,"Communication, Teamwork, Problem Solving",3,82217,Freelance,Hybrid,128,30,2022,1,Q1
+JOB0498,2022-01-31,Tourism & Hospitality,Restaurant Manager,Kurunegala,"Communication, Teamwork, Problem Solving",3,49585,Part-time,Yes,122,77,2022,1,Q1
+JOB0485,2022-02-07,E-commerce,Social Media Manager,Colombo,"Communication, Teamwork, Problem Solving",0,119048,Full-time,Yes,61,49,2022,2,Q1
+JOB0298,2022-02-09,E-commerce,Graphic Designer,Negombo,"Creativity, InDesign, Illustrator, Adobe Photoshop",8,124141,Full-time,No,16,55,2022,2,Q1
+JOB0438,2022-02-10,E-commerce,Digital Marketing Specialist,Kandy,"Google Ads, Social Media Marketing, SEO, Analytics",5,96544,Full-time,No,198,72,2022,2,Q1
+JOB0125,2022-02-12,Healthcare,Medical Officer,Matara,"Communication, Teamwork, Problem Solving",5,180611,Full-time,No,72,70,2022,2,Q1
+JOB0107,2022-02-13,IT/Software,UI/UX Designer,Jaffna,"Adobe XD, Prototyping, Figma, Sketch",3,233716,Contract,No,47,15,2022,2,Q1
+JOB0525,2022-02-16,Apparel/Textiles,Quality Inspector,Kurunegala,"Communication, Teamwork, Problem Solving",3,81867,Full-time,No,80,83,2022,2,Q1
+JOB0484,2022-02-16,Healthcare,Medical Officer,Galle,"Communication, Teamwork, Problem Solving",3,115541,Full-time,No,150,76,2022,2,Q1
+JOB0559,2022-02-18,Apparel/Textiles,Merchandiser,Kandy,"Communication, Teamwork, Problem Solving",10,43727,Full-time,No,163,30,2022,2,Q1
+JOB0243,2022-02-20,Telecommunications,Network Engineer,Kurunegala,"Communication, Teamwork, Problem Solving",6,98722,Contract,Yes,196,33,2022,2,Q1
+JOB0145,2022-02-24,E-commerce,Digital Marketing Specialist,Galle,"Social Media Marketing, SEO, Google Ads, Analytics",3,99140,Full-time,Hybrid,192,57,2022,2,Q1
+JOB0272,2022-02-24,Tourism & Hospitality,Tour Guide,Negombo,"Communication, Teamwork, Problem Solving",10,68931,Full-time,No,85,21,2022,2,Q1
+JOB0238,2022-02-25,Telecommunications,Telecom Analyst,Galle,"Communication, Teamwork, Problem Solving",4,117469,Contract,Yes,114,78,2022,2,Q1
+JOB0331,2022-02-26,E-commerce,Digital Marketing Specialist,Gampaha,"Google Ads, SEO, Social Media Marketing, Analytics",6,85269,Full-time,No,184,16,2022,2,Q1
+JOB0228,2022-03-02,Tourism & Hospitality,Restaurant Manager,Matara,"Communication, Teamwork, Problem Solving",3,67152,Full-time,Hybrid,120,38,2022,3,Q1
+JOB0299,2022-03-02,Tourism & Hospitality,Hotel Manager,Kandy,"Communication, Teamwork, Problem Solving",7,87995,Full-time,No,69,35,2022,3,Q1
+JOB0182,2022-03-06,Apparel/Textiles,Merchandiser,Matara,"Communication, Teamwork, Problem Solving",0,52503,Full-time,No,115,41,2022,3,Q1
+JOB0431,2022-03-08,Banking,Branch Manager,Kurunegala,"Communication, Teamwork, Problem Solving",2,121605,Full-time,Yes,142,73,2022,3,Q1
+JOB0517,2022-03-14,Finance & Accounting,Tax Consultant,Matara,"Communication, Teamwork, Problem Solving",7,80366,Contract,No,95,74,2022,3,Q1
+JOB0030,2022-03-15,Healthcare,Healthcare Administrator,Negombo,"Communication, Teamwork, Problem Solving",6,98821,Full-time,No,20,60,2022,3,Q1
+JOB0476,2022-03-18,Apparel/Textiles,CAD Operator,Kandy,"Communication, Teamwork, Problem Solving",0,45143,Contract,No,121,68,2022,3,Q1
+JOB0134,2022-03-22,Manufacturing,Operations Manager,Jaffna,"Communication, Teamwork, Problem Solving",7,107377,Full-time,No,103,62,2022,3,Q1
+JOB0401,2022-03-24,Manufacturing,Logistics Coordinator,Kurunegala,"Communication, Teamwork, Problem Solving",1,80375,Full-time,No,181,41,2022,3,Q1
+JOB0379,2022-03-25,E-commerce,Content Writer,Colombo,"SEO Writing, Content Writing, WordPress, Research",7,93327,Part-time,No,49,56,2022,3,Q1
+JOB0407,2022-03-30,Finance & Accounting,Accounts Executive,Colombo,"Communication, Teamwork, Problem Solving",2,137640,Full-time,No,156,33,2022,3,Q1
+JOB0281,2022-04-01,IT/Software,Data Analyst,Negombo,"Excel, Power BI, Statistics",2,119343,Contract,No,151,68,2022,4,Q2
+JOB0206,2022-04-01,E-commerce,SEO Specialist,Jaffna,"Communication, Teamwork, Problem Solving",8,80715,Full-time,No,24,32,2022,4,Q2
+JOB0388,2022-04-04,BPO/Customer Service,Chat Support Agent,Jaffna,"Communication, Teamwork, Problem Solving",1,72953,Full-time,No,165,26,2022,4,Q2
+JOB0225,2022-04-06,BPO/Customer Service,Sales Executive,Jaffna,"Negotiation, Lead Generation, Sales",10,53576,Full-time,No,111,24,2022,4,Q2
+JOB0175,2022-04-10,IT/Software,QA Engineer,Colombo,"API Testing, Manual Testing, Test Automation, Selenium, JIRA",2,192965,Contract,No,113,61,2022,4,Q2
+JOB0508,2022-04-11,Finance & Accounting,Financial Analyst,Kandy,"Data Analysis, Financial Modeling, Forecasting",10,64250,Contract,No,32,21,2022,4,Q2
+JOB0466,2022-04-11,Healthcare,Medical Officer,Gampaha,"Communication, Teamwork, Problem Solving",0,78579,Contract,No,135,25,2022,4,Q2
+JOB0043,2022-04-13,Banking,Credit Analyst,Kurunegala,"Communication, Teamwork, Problem Solving",7,85906,Full-time,No,145,86,2022,4,Q2
+JOB0528,2022-04-14,Finance & Accounting,Accountant,Kurunegala,"QuickBooks, Excel, Tally, Tax Knowledge, Financial Reporting",6,115897,Full-time,No,161,72,2022,4,Q2
+JOB0181,2022-04-16,Apparel/Textiles,CAD Operator,Negombo,"Communication, Teamwork, Problem Solving",8,51174,Full-time,No,107,33,2022,4,Q2
+JOB0212,2022-04-16,Tourism & Hospitality,Restaurant Manager,Negombo,"Communication, Teamwork, Problem Solving",10,79149,Full-time,No,58,90,2022,4,Q2
+JOB0143,2022-04-17,Telecommunications,Customer Care Executive,Kandy,"Communication, Teamwork, Problem Solving",1,132684,Part-time,No,41,51,2022,4,Q2
+JOB0120,2022-04-18,Finance & Accounting,Financial Analyst,Kandy,"Financial Modeling, Excel, Data Analysis",6,146761,Full-time,No,79,42,2022,4,Q2
+JOB0580,2022-04-18,Banking,Credit Analyst,Kurunegala,"Communication, Teamwork, Problem Solving",0,90715,Full-time,Yes,70,71,2022,4,Q2
+JOB0547,2022-04-19,Healthcare,Healthcare Administrator,Matara,"Communication, Teamwork, Problem Solving",7,62826,Full-time,Hybrid,156,57,2022,4,Q2
+JOB0578,2022-04-19,Manufacturing,Production Manager,Kurunegala,"Communication, Teamwork, Problem Solving",7,69558,Full-time,No,21,21,2022,4,Q2
+JOB0066,2022-04-22,Banking,Branch Manager,Jaffna,"Communication, Teamwork, Problem Solving",2,161411,Full-time,No,36,16,2022,4,Q2
+JOB0199,2022-04-24,Telecommunications,Telecom Analyst,Colombo,"Communication, Teamwork, Problem Solving",6,127272,Full-time,Yes,128,54,2022,4,Q2
+JOB0518,2022-04-25,Banking,Branch Manager,Kurunegala,"Communication, Teamwork, Problem Solving",5,144048,Full-time,Yes,157,57,2022,4,Q2
+JOB0327,2022-04-26,Banking,Credit Analyst,Colombo,"Communication, Teamwork, Problem Solving",4,78600,Part-time,No,144,87,2022,4,Q2
+JOB0358,2022-05-01,Finance & Accounting,Accountant,Gampaha,"Excel, Tax Knowledge, Financial Reporting, Tally, QuickBooks",6,140127,Part-time,No,185,31,2022,5,Q2
+JOB0074,2022-05-03,Finance & Accounting,Payroll Specialist,Kandy,"Communication, Teamwork, Problem Solving",10,100319,Part-time,No,83,71,2022,5,Q2
+JOB0287,2022-05-03,Finance & Accounting,Finance Manager,Kurunegala,"Communication, Teamwork, Problem Solving",1,96677,Full-time,No,143,67,2022,5,Q2
+JOB0318,2022-05-05,E-commerce,Social Media Manager,Gampaha,"Communication, Teamwork, Problem Solving",8,104870,Full-time,Hybrid,156,45,2022,5,Q2
+JOB0467,2022-05-05,Healthcare,Healthcare Administrator,Colombo,"Communication, Teamwork, Problem Solving",5,169039,Part-time,Yes,167,49,2022,5,Q2
+JOB0549,2022-05-06,Telecommunications,Sales Manager,Jaffna,"Communication, Teamwork, Problem Solving",10,82161,Full-time,Hybrid,198,18,2022,5,Q2
+JOB0011,2022-05-11,E-commerce,SEO Specialist,Jaffna,"Communication, Teamwork, Problem Solving",7,128104,Full-time,Hybrid,12,29,2022,5,Q2
+JOB0110,2022-05-11,Telecommunications,Field Service Technician,Jaffna,"Communication, Teamwork, Problem Solving",8,107453,Full-time,No,66,20,2022,5,Q2
+JOB0597,2022-05-15,Manufacturing,Logistics Coordinator,Galle,"Communication, Teamwork, Problem Solving",1,61443,Full-time,No,29,28,2022,5,Q2
+JOB0164,2022-05-15,Tourism & Hospitality,Restaurant Manager,Galle,"Communication, Teamwork, Problem Solving",7,81984,Full-time,No,157,24,2022,5,Q2
+JOB0385,2022-05-15,Manufacturing,Operations Manager,Kandy,"Communication, Teamwork, Problem Solving",6,77941,Contract,No,189,70,2022,5,Q2
+JOB0519,2022-05-16,Finance & Accounting,Auditor,Matara,"Communication, Teamwork, Problem Solving",5,64085,Freelance,No,52,88,2022,5,Q2
+JOB0321,2022-05-18,BPO/Customer Service,Voice Process Executive,Colombo,"Communication, Teamwork, Problem Solving",6,76461,Full-time,No,143,73,2022,5,Q2
+JOB0245,2022-05-18,Tourism & Hospitality,Hotel Manager,Negombo,"Communication, Teamwork, Problem Solving",1,88096,Full-time,No,37,36,2022,5,Q2
+JOB0158,2022-05-18,Manufacturing,Operations Manager,Gampaha,"Communication, Teamwork, Problem Solving",5,98015,Full-time,No,164,34,2022,5,Q2
+JOB0422,2022-05-21,BPO/Customer Service,Sales Executive,Kandy,"CRM, Negotiation, Sales, Lead Generation",6,69803,Full-time,No,114,79,2022,5,Q2
+JOB0201,2022-05-22,Telecommunications,Network Engineer,Kurunegala,"Communication, Teamwork, Problem Solving",6,97629,Full-time,Yes,174,68,2022,5,Q2
+JOB0006,2022-05-23,IT/Software,Data Analyst,Kandy,"Python, SQL, Statistics, Tableau, Power BI",5,198858,Full-time,No,181,49,2022,5,Q2
+JOB0468,2022-05-25,Tourism & Hospitality,Hotel Manager,Negombo,"Communication, Teamwork, Problem Solving",8,49149,Full-time,No,146,64,2022,5,Q2
+JOB0269,2022-05-26,Manufacturing,Logistics Coordinator,Matara,"Communication, Teamwork, Problem Solving",1,61708,Full-time,No,86,32,2022,5,Q2
+JOB0440,2022-05-27,BPO/Customer Service,Quality Analyst,Gampaha,"Auditing, Reporting, Analytics, Quality Assurance",10,57529,Full-time,No,123,61,2022,5,Q2
+JOB0423,2022-05-29,Banking,Branch Manager,Jaffna,"Communication, Teamwork, Problem Solving",1,114560,Contract,Hybrid,147,88,2022,5,Q2
+JOB0393,2022-05-30,Tourism & Hospitality,Hotel Manager,Galle,"Communication, Teamwork, Problem Solving",1,51429,Full-time,No,94,60,2022,5,Q2
+JOB0095,2022-06-01,Telecommunications,Customer Care Executive,Jaffna,"Communication, Teamwork, Problem Solving",4,137014,Full-time,No,74,73,2022,6,Q2
+JOB0398,2022-06-06,BPO/Customer Service,Customer Service Representative,Galle,"English, Problem Solving, Communication",8,42402,Full-time,No,148,75,2022,6,Q2
+JOB0475,2022-06-08,Healthcare,Lab Technician,Jaffna,"Communication, Teamwork, Problem Solving",7,105325,Contract,No,157,27,2022,6,Q2
+JOB0124,2022-06-09,Healthcare,Healthcare Administrator,Matara,"Communication, Teamwork, Problem Solving",10,172534,Full-time,No,84,29,2022,6,Q2
+JOB0536,2022-06-09,Apparel/Textiles,CAD Operator,Galle,"Communication, Teamwork, Problem Solving",10,47492,Full-time,No,34,71,2022,6,Q2
+JOB0187,2022-06-11,Healthcare,Lab Technician,Jaffna,"Communication, Teamwork, Problem Solving",7,127225,Full-time,No,79,86,2022,6,Q2
+JOB0449,2022-06-12,E-commerce,Graphic Designer,Gampaha,"InDesign, Illustrator, Creativity, Adobe Photoshop",1,74641,Full-time,No,173,73,2022,6,Q2
+JOB0592,2022-06-15,Apparel/Textiles,Quality Inspector,Kandy,"Communication, Teamwork, Problem Solving",0,88218,Full-time,Hybrid,103,21,2022,6,Q2
+JOB0136,2022-06-16,Apparel/Textiles,Production Executive,Kandy,"Communication, Teamwork, Problem Solving",4,62925,Freelance,No,110,31,2022,6,Q2
+JOB0315,2022-06-17,Telecommunications,Network Engineer,Matara,"Communication, Teamwork, Problem Solving",6,100416,Full-time,No,77,26,2022,6,Q2
+JOB0155,2022-06-19,E-commerce,Digital Marketing Specialist,Galle,"Google Ads, Social Media Marketing, Analytics, SEO",1,63447,Full-time,No,124,69,2022,6,Q2
+JOB0443,2022-06-22,E-commerce,Content Writer,Kurunegala,"SEO Writing, Research, WordPress, Content Writing",2,66569,Full-time,No,18,60,2022,6,Q2
+JOB0391,2022-06-24,Tourism & Hospitality,Tour Guide,Galle,"Communication, Teamwork, Problem Solving",5,84040,Full-time,Hybrid,141,33,2022,6,Q2
+JOB0115,2022-06-24,BPO/Customer Service,Voice Process Executive,Kurunegala,"Communication, Teamwork, Problem Solving",5,46328,Contract,No,160,86,2022,6,Q2
+JOB0229,2022-06-25,Apparel/Textiles,Quality Inspector,Galle,"Communication, Teamwork, Problem Solving",3,92301,Part-time,Yes,49,63,2022,6,Q2
+JOB0560,2022-06-26,Apparel/Textiles,Production Executive,Jaffna,"Communication, Teamwork, Problem Solving",10,64638,Contract,No,38,38,2022,6,Q2
+JOB0284,2022-06-26,Banking,Loan Officer,Gampaha,"Communication, Teamwork, Problem Solving",5,71044,Full-time,No,87,46,2022,6,Q2
+JOB0521,2022-06-27,Telecommunications,Telecom Analyst,Galle,"Communication, Teamwork, Problem Solving",7,108704,Contract,No,144,53,2022,6,Q2
+JOB0271,2022-06-27,BPO/Customer Service,Quality Analyst,Jaffna,"Reporting, Auditing, Analytics",2,60611,Full-time,No,73,85,2022,6,Q2
+JOB0504,2022-07-06,BPO/Customer Service,Content Moderator,Matara,"Communication, Teamwork, Problem Solving",1,63785,Full-time,No,140,35,2022,7,Q3
+JOB0412,2022-07-10,Telecommunications,Telecom Analyst,Matara,"Communication, Teamwork, Problem Solving",8,139098,Contract,No,183,70,2022,7,Q3
+JOB0530,2022-07-10,Telecommunications,Network Engineer,Negombo,"Communication, Teamwork, Problem Solving",4,119714,Full-time,No,129,75,2022,7,Q3
+JOB0177,2022-07-18,E-commerce,Content Writer,Gampaha,"Research, Content Writing, WordPress, SEO Writing",0,115546,Full-time,Yes,95,75,2022,7,Q3
+JOB0366,2022-07-19,Manufacturing,Production Manager,Kurunegala,"Communication, Teamwork, Problem Solving",5,94742,Contract,Hybrid,84,85,2022,7,Q3
+JOB0558,2022-07-20,Banking,Relationship Manager,Colombo,"Communication, Teamwork, Problem Solving",7,159849,Full-time,No,74,39,2022,7,Q3
+JOB0305,2022-07-26,Healthcare,Pharmacist,Kurunegala,"Communication, Teamwork, Problem Solving",2,144568,Freelance,No,121,77,2022,7,Q3
+JOB0451,2022-07-29,Tourism & Hospitality,Front Desk Executive,Gampaha,"Communication, Teamwork, Problem Solving",7,43194,Part-time,No,48,16,2022,7,Q3
+JOB0128,2022-07-30,Finance & Accounting,Auditor,Galle,"Communication, Teamwork, Problem Solving",2,85856,Full-time,No,177,24,2022,7,Q3
+JOB0242,2022-08-05,IT/Software,Full Stack Developer,Kurunegala,"React, REST API, HTML/CSS, MongoDB, Node.js",7,182533,Part-time,No,138,34,2022,8,Q3
+JOB0367,2022-08-06,IT/Software,DevOps Engineer,Kandy,"Docker, Jenkins, AWS, CI/CD, Linux, Kubernetes",6,111652,Full-time,No,58,58,2022,8,Q3
+JOB0511,2022-08-12,Apparel/Textiles,Fashion Designer,Matara,"Communication, Teamwork, Problem Solving",7,45745,Part-time,No,190,51,2022,8,Q3
+JOB0540,2022-08-13,Tourism & Hospitality,Hotel Manager,Matara,"Communication, Teamwork, Problem Solving",6,50416,Part-time,No,91,63,2022,8,Q3
+JOB0148,2022-08-16,Telecommunications,Sales Manager,Jaffna,"Communication, Teamwork, Problem Solving",0,130261,Full-time,No,193,33,2022,8,Q3
+JOB0147,2022-08-16,Tourism & Hospitality,Tour Guide,Kandy,"Communication, Teamwork, Problem Solving",1,54736,Full-time,No,169,73,2022,8,Q3
+JOB0001,2022-08-17,IT/Software,QA Engineer,Negombo,"Test Automation, API Testing, JIRA, Selenium",8,257392,Full-time,No,17,26,2022,8,Q3
+JOB0522,2022-08-18,Healthcare,Nurse,Galle,"Communication, Teamwork, Problem Solving",1,112978,Full-time,Yes,133,79,2022,8,Q3
+JOB0160,2022-08-21,IT/Software,DevOps Engineer,Kandy,"Linux, Jenkins, AWS, Docker, Kubernetes, CI/CD",10,136248,Full-time,Hybrid,135,40,2022,8,Q3
+JOB0256,2022-08-22,Tourism & Hospitality,Events Coordinator,Negombo,"Communication, Teamwork, Problem Solving",5,88954,Full-time,No,194,71,2022,8,Q3
+JOB0250,2022-08-22,Healthcare,Pharmacist,Kandy,"Communication, Teamwork, Problem Solving",10,180025,Full-time,No,86,90,2022,8,Q3
+JOB0373,2022-08-25,Healthcare,Healthcare Administrator,Jaffna,"Communication, Teamwork, Problem Solving",10,185926,Full-time,No,116,83,2022,8,Q3
+JOB0195,2022-08-29,Tourism & Hospitality,Front Desk Executive,Kurunegala,"Communication, Teamwork, Problem Solving",3,75280,Full-time,Yes,49,73,2022,8,Q3
+JOB0506,2022-08-29,Finance & Accounting,Financial Analyst,Negombo,"Data Analysis, Financial Modeling, Excel",7,125225,Full-time,Yes,136,45,2022,8,Q3
+JOB0203,2022-08-31,Finance & Accounting,Accounts Executive,Jaffna,"Communication, Teamwork, Problem Solving",8,111518,Full-time,Hybrid,10,17,2022,8,Q3
+JOB0069,2022-08-31,Banking,Loan Officer,Gampaha,"Communication, Teamwork, Problem Solving",10,149471,Part-time,No,143,63,2022,8,Q3
+JOB0116,2022-09-08,E-commerce,Content Writer,Kandy,"Content Writing, SEO Writing, Research, WordPress",10,63579,Full-time,No,133,43,2022,9,Q3
+JOB0533,2022-09-18,Banking,Relationship Manager,Gampaha,"Communication, Teamwork, Problem Solving",1,123174,Full-time,No,87,83,2022,9,Q3
+JOB0050,2022-09-19,Apparel/Textiles,Fashion Designer,Galle,"Communication, Teamwork, Problem Solving",6,41767,Full-time,No,31,69,2022,9,Q3
+JOB0166,2022-09-22,E-commerce,Social Media Manager,Negombo,"Communication, Teamwork, Problem Solving",1,57263,Full-time,No,51,56,2022,9,Q3
+JOB0347,2022-09-22,BPO/Customer Service,Voice Process Executive,Jaffna,"Communication, Teamwork, Problem Solving",10,72986,Full-time,Yes,21,53,2022,9,Q3
+JOB0332,2022-09-28,Finance & Accounting,Accounts Executive,Matara,"Communication, Teamwork, Problem Solving",3,61109,Full-time,No,88,50,2022,9,Q3
+JOB0589,2022-09-29,Healthcare,Pharmacist,Colombo,"Communication, Teamwork, Problem Solving",1,122668,Full-time,No,51,73,2022,9,Q3
+JOB0231,2022-09-29,BPO/Customer Service,Quality Analyst,Matara,"Reporting, Analytics, Auditing, Quality Assurance",1,41721,Full-time,Yes,163,56,2022,9,Q3
+JOB0270,2022-09-30,Finance & Accounting,Accountant,Negombo,"Excel, Tally, Tax Knowledge",3,106030,Full-time,No,115,71,2022,9,Q3
+JOB0251,2022-10-02,Healthcare,Nurse,Matara,"Communication, Teamwork, Problem Solving",4,122540,Full-time,No,46,80,2022,10,Q4
+JOB0161,2022-10-05,BPO/Customer Service,Content Moderator,Kandy,"Communication, Teamwork, Problem Solving",7,51315,Freelance,No,91,59,2022,10,Q4
+JOB0543,2022-10-06,BPO/Customer Service,Quality Analyst,Negombo,"Reporting, Analytics, Auditing, Quality Assurance",8,69779,Full-time,No,108,60,2022,10,Q4
+JOB0254,2022-10-07,Manufacturing,Logistics Coordinator,Gampaha,"Communication, Teamwork, Problem Solving",7,116248,Full-time,No,191,71,2022,10,Q4
+JOB0122,2022-10-09,Tourism & Hospitality,Front Desk Executive,Matara,"Communication, Teamwork, Problem Solving",1,56503,Full-time,No,54,31,2022,10,Q4
+JOB0188,2022-10-09,BPO/Customer Service,Technical Support Specialist,Colombo,"Troubleshooting, Ticketing Systems, Technical Knowledge",1,43440,Full-time,No,35,32,2022,10,Q4
+JOB0146,2022-10-09,IT/Software,QA Engineer,Matara,"Test Automation, Manual Testing, API Testing, Selenium, JIRA",4,84981,Full-time,Yes,196,82,2022,10,Q4
+JOB0371,2022-10-10,E-commerce,Social Media Manager,Negombo,"Communication, Teamwork, Problem Solving",4,117147,Contract,No,90,85,2022,10,Q4
+JOB0492,2022-10-11,Apparel/Textiles,Fashion Designer,Galle,"Communication, Teamwork, Problem Solving",3,84829,Contract,No,190,82,2022,10,Q4
+JOB0594,2022-10-11,Healthcare,Medical Officer,Negombo,"Communication, Teamwork, Problem Solving",7,89768,Part-time,No,189,41,2022,10,Q4
+JOB0101,2022-10-16,Manufacturing,Operations Manager,Kandy,"Communication, Teamwork, Problem Solving",8,102089,Full-time,No,13,48,2022,10,Q4
+JOB0527,2022-10-17,Tourism & Hospitality,Events Coordinator,Gampaha,"Communication, Teamwork, Problem Solving",2,51044,Full-time,No,96,84,2022,10,Q4
+JOB0575,2022-10-21,Tourism & Hospitality,Events Coordinator,Galle,"Communication, Teamwork, Problem Solving",6,64518,Full-time,No,187,19,2022,10,Q4
+JOB0094,2022-10-21,Manufacturing,Logistics Coordinator,Galle,"Communication, Teamwork, Problem Solving",7,83289,Full-time,Yes,129,51,2022,10,Q4
+JOB0390,2022-10-23,Tourism & Hospitality,Front Desk Executive,Matara,"Communication, Teamwork, Problem Solving",8,35730,Contract,Yes,20,15,2022,10,Q4
+JOB0108,2022-10-24,Finance & Accounting,Accounts Executive,Kurunegala,"Communication, Teamwork, Problem Solving",2,92853,Full-time,No,43,16,2022,10,Q4
+JOB0084,2022-10-24,E-commerce,E-commerce Manager,Matara,"Communication, Teamwork, Problem Solving",8,128561,Part-time,Yes,27,50,2022,10,Q4
+JOB0552,2022-10-25,Apparel/Textiles,Production Executive,Gampaha,"Communication, Teamwork, Problem Solving",7,94893,Part-time,No,108,45,2022,10,Q4
+JOB0453,2022-10-27,IT/Software,QA Engineer,Matara,"Selenium, Manual Testing, API Testing, JIRA, Test Automation",6,294237,Contract,Yes,192,46,2022,10,Q4
+JOB0375,2022-10-27,IT/Software,QA Engineer,Matara,"API Testing, Selenium, Test Automation, JIRA",10,106864,Contract,No,67,86,2022,10,Q4
+JOB0304,2022-10-30,Apparel/Textiles,Production Executive,Matara,"Communication, Teamwork, Problem Solving",1,90748,Contract,No,28,62,2022,10,Q4
+JOB0565,2022-11-01,IT/Software,Software Engineer,Negombo,"React, Java, Agile, Node.js, SQL, Python",7,215104,Full-time,No,196,23,2022,11,Q4
+JOB0086,2022-11-01,Telecommunications,Sales Manager,Kurunegala,"Communication, Teamwork, Problem Solving",5,123483,Full-time,No,106,73,2022,11,Q4
+JOB0178,2022-11-02,Apparel/Textiles,Fashion Designer,Kurunegala,"Communication, Teamwork, Problem Solving",5,49160,Contract,No,110,53,2022,11,Q4
+JOB0587,2022-11-02,Apparel/Textiles,Merchandiser,Matara,"Communication, Teamwork, Problem Solving",0,67379,Full-time,No,139,19,2022,11,Q4
+JOB0570,2022-11-02,Apparel/Textiles,Production Executive,Colombo,"Communication, Teamwork, Problem Solving",0,44720,Part-time,No,14,75,2022,11,Q4
+JOB0538,2022-11-02,Telecommunications,Sales Manager,Jaffna,"Communication, Teamwork, Problem Solving",6,98207,Full-time,No,62,55,2022,11,Q4
+JOB0354,2022-11-02,BPO/Customer Service,Team Leader,Jaffna,"Performance Monitoring, Coaching, Leadership",4,69933,Full-time,Yes,54,20,2022,11,Q4
+JOB0336,2022-11-04,Banking,Credit Analyst,Gampaha,"Communication, Teamwork, Problem Solving",10,77441,Full-time,No,45,18,2022,11,Q4
+JOB0130,2022-11-06,Telecommunications,Network Engineer,Kurunegala,"Communication, Teamwork, Problem Solving",7,121462,Full-time,No,161,22,2022,11,Q4
+JOB0013,2022-11-10,Healthcare,Medical Officer,Jaffna,"Communication, Teamwork, Problem Solving",0,199029,Full-time,No,38,61,2022,11,Q4
+JOB0314,2022-11-11,IT/Software,UI/UX Designer,Jaffna,"Wireframing, Figma, Adobe XD",10,295979,Full-time,Yes,62,36,2022,11,Q4
+JOB0386,2022-11-11,IT/Software,Cloud Architect,Matara,"AWS, Cloud Security, Terraform, GCP, Azure",4,288198,Full-time,No,68,48,2022,11,Q4
+JOB0542,2022-11-12,Tourism & Hospitality,Tour Guide,Matara,"Communication, Teamwork, Problem Solving",0,43800,Full-time,Yes,194,77,2022,11,Q4
+JOB0458,2022-11-14,Healthcare,Nurse,Colombo,"Communication, Teamwork, Problem Solving",2,125201,Full-time,No,96,22,2022,11,Q4
+JOB0004,2022-11-15,Manufacturing,Warehouse Supervisor,Colombo,"Communication, Teamwork, Problem Solving",1,63396,Full-time,No,98,48,2022,11,Q4
+JOB0483,2022-11-16,BPO/Customer Service,Team Leader,Gampaha,"Team Management, Performance Monitoring, Leadership",0,58853,Full-time,No,88,72,2022,11,Q4
+JOB0313,2022-11-18,IT/Software,Full Stack Developer,Gampaha,"React, HTML/CSS, MongoDB, Node.js, REST API",4,253171,Full-time,Yes,110,88,2022,11,Q4
+JOB0189,2022-11-20,E-commerce,Graphic Designer,Negombo,"Creativity, InDesign, Adobe Photoshop, Illustrator",4,92096,Full-time,Hybrid,32,88,2022,11,Q4
+JOB0265,2022-11-20,Telecommunications,Field Service Technician,Galle,"Communication, Teamwork, Problem Solving",6,60088,Full-time,No,43,53,2022,11,Q4
+JOB0144,2022-11-25,Tourism & Hospitality,Restaurant Manager,Kurunegala,"Communication, Teamwork, Problem Solving",2,68643,Contract,Yes,66,72,2022,11,Q4
+JOB0562,2022-11-28,BPO/Customer Service,Sales Executive,Gampaha,"Lead Generation, Negotiation, CRM",4,43936,Freelance,No,122,23,2022,11,Q4
+JOB0226,2022-11-29,Apparel/Textiles,Production Executive,Kandy,"Communication, Teamwork, Problem Solving",6,77138,Full-time,No,108,32,2022,11,Q4
+JOB0140,2022-11-29,Finance & Accounting,Payroll Specialist,Gampaha,"Communication, Teamwork, Problem Solving",2,141885,Part-time,Yes,103,45,2022,11,Q4
+JOB0100,2022-12-03,Tourism & Hospitality,Restaurant Manager,Kandy,"Communication, Teamwork, Problem Solving",4,87854,Part-time,No,39,74,2022,12,Q4
+JOB0290,2022-12-03,Telecommunications,Field Service Technician,Jaffna,"Communication, Teamwork, Problem Solving",6,101160,Full-time,No,63,72,2022,12,Q4
+JOB0198,2022-12-03,Healthcare,Healthcare Administrator,Gampaha,"Communication, Teamwork, Problem Solving",1,175825,Full-time,No,135,26,2022,12,Q4
+JOB0408,2022-12-07,Tourism & Hospitality,Tour Guide,Kandy,"Communication, Teamwork, Problem Solving",6,68858,Full-time,No,14,51,2022,12,Q4
+JOB0553,2022-12-09,Manufacturing,Supply Chain Analyst,Galle,"Communication, Teamwork, Problem Solving",0,95229,Full-time,No,39,21,2022,12,Q4
+JOB0255,2022-12-09,BPO/Customer Service,Customer Service Representative,Kandy,"Problem Solving, Communication, CRM Software, English",4,75232,Full-time,No,200,78,2022,12,Q4
+JOB0457,2022-12-09,Tourism & Hospitality,Events Coordinator,Gampaha,"Communication, Teamwork, Problem Solving",6,42841,Part-time,Yes,20,89,2022,12,Q4
+JOB0054,2022-12-10,Apparel/Textiles,Fashion Designer,Colombo,"Communication, Teamwork, Problem Solving",1,89016,Part-time,No,89,28,2022,12,Q4
+JOB0259,2022-12-11,Healthcare,Medical Transcriptionist,Galle,"Communication, Teamwork, Problem Solving",4,136712,Full-time,Hybrid,141,27,2022,12,Q4
+JOB0482,2022-12-13,Healthcare,Healthcare Administrator,Kurunegala,"Communication, Teamwork, Problem Solving",10,175922,Full-time,Yes,69,40,2022,12,Q4
+JOB0421,2022-12-14,IT/Software,UI/UX Designer,Colombo,"Figma, Adobe XD, Prototyping, Wireframing",6,284386,Full-time,No,160,40,2022,12,Q4
+JOB0585,2022-12-15,Apparel/Textiles,Fashion Designer,Gampaha,"Communication, Teamwork, Problem Solving",3,96033,Full-time,No,135,42,2022,12,Q4
+JOB0007,2022-12-17,Banking,Credit Analyst,Negombo,"Communication, Teamwork, Problem Solving",7,91417,Full-time,Hybrid,173,86,2022,12,Q4
+JOB0274,2022-12-20,Telecommunications,Network Engineer,Matara,"Communication, Teamwork, Problem Solving",10,62187,Full-time,No,20,22,2022,12,Q4
+JOB0301,2022-12-22,Finance & Accounting,Financial Analyst,Jaffna,"Data Analysis, Forecasting, Financial Modeling, Excel",10,134403,Full-time,Hybrid,136,84,2022,12,Q4
+JOB0328,2022-12-22,Manufacturing,Quality Control Inspector,Jaffna,"Communication, Teamwork, Problem Solving",3,57553,Full-time,Yes,102,40,2022,12,Q4
+JOB0306,2022-12-23,Banking,Compliance Officer,Jaffna,"Communication, Teamwork, Problem Solving",5,173152,Full-time,No,54,63,2022,12,Q4
+JOB0152,2022-12-25,Telecommunications,Field Service Technician,Jaffna,"Communication, Teamwork, Problem Solving",2,142802,Contract,Yes,127,19,2022,12,Q4
+JOB0302,2022-12-26,Telecommunications,Network Engineer,Colombo,"Communication, Teamwork, Problem Solving",0,71830,Full-time,No,144,76,2022,12,Q4
+JOB0278,2022-12-26,BPO/Customer Service,Customer Service Representative,Galle,"Communication, English, CRM Software, Problem Solving",8,74275,Part-time,No,52,62,2022,12,Q4
+JOB0397,2022-12-26,Apparel/Textiles,Merchandiser,Jaffna,"Communication, Teamwork, Problem Solving",4,95167,Contract,Yes,147,40,2022,12,Q4
+JOB0222,2023-01-03,BPO/Customer Service,Team Leader,Negombo,"Team Management, Leadership, Coaching, Performance Monitoring",6,57519,Full-time,Hybrid,127,87,2023,1,Q1
+JOB0283,2023-01-03,Manufacturing,Supply Chain Analyst,Kurunegala,"Communication, Teamwork, Problem Solving",6,56019,Full-time,No,82,54,2023,1,Q1
+JOB0434,2023-01-04,Apparel/Textiles,Production Executive,Matara,"Communication, Teamwork, Problem Solving",3,77741,Contract,Hybrid,70,86,2023,1,Q1
+JOB0430,2023-01-10,Banking,Branch Manager,Gampaha,"Communication, Teamwork, Problem Solving",3,122150,Part-time,Yes,144,69,2023,1,Q1
+JOB0219,2023-01-12,Banking,Relationship Manager,Colombo,"Communication, Teamwork, Problem Solving",0,138674,Contract,Yes,181,21,2023,1,Q1
+JOB0392,2023-01-12,Manufacturing,Supply Chain Analyst,Gampaha,"Communication, Teamwork, Problem Solving",3,83127,Full-time,No,155,21,2023,1,Q1
+JOB0433,2023-01-12,Telecommunications,Field Service Technician,Gampaha,"Communication, Teamwork, Problem Solving",6,87594,Part-time,No,112,50,2023,1,Q1
+JOB0316,2023-01-14,Healthcare,Lab Technician,Negombo,"Communication, Teamwork, Problem Solving",2,156836,Full-time,Yes,129,48,2023,1,Q1
+JOB0544,2023-01-16,E-commerce,Social Media Manager,Jaffna,"Communication, Teamwork, Problem Solving",10,50973,Full-time,Hybrid,192,79,2023,1,Q1
+JOB0247,2023-01-17,E-commerce,SEO Specialist,Colombo,"Communication, Teamwork, Problem Solving",10,53826,Contract,No,119,64,2023,1,Q1
+JOB0520,2023-01-19,Apparel/Textiles,Merchandiser,Matara,"Communication, Teamwork, Problem Solving",4,96662,Part-time,No,18,49,2023,1,Q1
+JOB0205,2023-01-22,BPO/Customer Service,Customer Service Representative,Negombo,"Communication, English, Problem Solving, CRM Software",10,46612,Full-time,No,190,21,2023,1,Q1
+JOB0087,2023-01-22,Manufacturing,Supply Chain Analyst,Matara,"Communication, Teamwork, Problem Solving",3,100196,Contract,No,91,75,2023,1,Q1
+JOB0523,2023-01-25,Healthcare,Lab Technician,Galle,"Communication, Teamwork, Problem Solving",4,197265,Part-time,Yes,35,81,2023,1,Q1
+JOB0064,2023-01-28,Manufacturing,Operations Manager,Kandy,"Communication, Teamwork, Problem Solving",4,113464,Part-time,Hybrid,144,51,2023,1,Q1
+JOB0384,2023-01-30,Healthcare,Healthcare Administrator,Colombo,"Communication, Teamwork, Problem Solving",1,81586,Full-time,Hybrid,147,83,2023,1,Q1
+JOB0469,2023-01-31,Banking,Credit Analyst,Kurunegala,"Communication, Teamwork, Problem Solving",2,144714,Full-time,No,37,88,2023,1,Q1
+JOB0460,2023-01-31,IT/Software,Mobile App Developer,Kurunegala,"React Native, Android, Flutter, Firebase, iOS",4,226544,Full-time,No,155,38,2023,1,Q1
+JOB0378,2023-02-01,Tourism & Hospitality,Restaurant Manager,Matara,"Communication, Teamwork, Problem Solving",1,46627,Full-time,Yes,141,30,2023,2,Q1
+JOB0065,2023-02-02,Tourism & Hospitality,Tour Guide,Colombo,"Communication, Teamwork, Problem Solving",2,58650,Full-time,Hybrid,42,50,2023,2,Q1
+JOB0249,2023-02-08,Telecommunications,Network Engineer,Matara,"Communication, Teamwork, Problem Solving",7,94387,Full-time,No,162,64,2023,2,Q1
+JOB0295,2023-02-09,Telecommunications,Telecom Analyst,Matara,"Communication, Teamwork, Problem Solving",5,72055,Full-time,Hybrid,22,36,2023,2,Q1
+JOB0096,2023-02-12,E-commerce,SEO Specialist,Colombo,"Communication, Teamwork, Problem Solving",3,63979,Full-time,No,85,52,2023,2,Q1
+JOB0041,2023-02-12,Finance & Accounting,Accountant,Gampaha,"Tally, Tax Knowledge, Financial Reporting",7,69545,Full-time,No,59,64,2023,2,Q1
+JOB0582,2023-02-14,E-commerce,E-commerce Manager,Negombo,"Communication, Teamwork, Problem Solving",7,59637,Full-time,Yes,121,33,2023,2,Q1
+JOB0563,2023-02-15,Apparel/Textiles,CAD Operator,Kandy,"Communication, Teamwork, Problem Solving",7,51694,Full-time,No,120,42,2023,2,Q1
+JOB0372,2023-02-16,Manufacturing,Supply Chain Analyst,Kurunegala,"Communication, Teamwork, Problem Solving",5,88086,Contract,Yes,191,37,2023,2,Q1
+JOB0515,2023-02-17,Tourism & Hospitality,Front Desk Executive,Kandy,"Communication, Teamwork, Problem Solving",1,86786,Full-time,No,92,15,2023,2,Q1
+JOB0153,2023-02-17,IT/Software,Data Analyst,Jaffna,"Power BI, Statistics, Excel",8,293753,Full-time,Yes,175,39,2023,2,Q1
+JOB0465,2023-02-18,BPO/Customer Service,Content Moderator,Jaffna,"Communication, Teamwork, Problem Solving",1,52557,Full-time,No,109,77,2023,2,Q1
+JOB0216,2023-02-21,Healthcare,Pharmacist,Jaffna,"Communication, Teamwork, Problem Solving",0,168509,Full-time,Yes,47,17,2023,2,Q1
+JOB0524,2023-02-25,IT/Software,Cloud Architect,Jaffna,"Cloud Security, AWS, Terraform, Azure, GCP",10,260106,Contract,No,21,28,2023,2,Q1
+JOB0428,2023-02-28,Manufacturing,Quality Control Inspector,Gampaha,"Communication, Teamwork, Problem Solving",10,82728,Full-time,Hybrid,40,25,2023,2,Q1
+JOB0514,2023-03-01,Apparel/Textiles,CAD Operator,Colombo,"Communication, Teamwork, Problem Solving",0,67134,Full-time,No,173,42,2023,3,Q1
+JOB0071,2023-03-09,Tourism & Hospitality,Hotel Manager,Gampaha,"Communication, Teamwork, Problem Solving",3,45292,Full-time,Yes,10,67,2023,3,Q1
+JOB0248,2023-03-16,Manufacturing,Warehouse Supervisor,Kurunegala,"Communication, Teamwork, Problem Solving",10,58200,Full-time,Hybrid,57,61,2023,3,Q1
+JOB0409,2023-03-20,Telecommunications,Sales Manager,Galle,"Communication, Teamwork, Problem Solving",7,121789,Full-time,Hybrid,163,33,2023,3,Q1
+JOB0452,2023-03-21,Healthcare,Lab Technician,Kandy,"Communication, Teamwork, Problem Solving",7,141677,Freelance,No,18,57,2023,3,Q1
+JOB0427,2023-03-24,Apparel/Textiles,Quality Inspector,Jaffna,"Communication, Teamwork, Problem Solving",3,51978,Full-time,Yes,198,45,2023,3,Q1
+JOB0098,2023-03-25,Manufacturing,Supply Chain Analyst,Jaffna,"Communication, Teamwork, Problem Solving",2,82850,Full-time,Hybrid,175,20,2023,3,Q1
+JOB0049,2023-03-26,Tourism & Hospitality,Restaurant Manager,Gampaha,"Communication, Teamwork, Problem Solving",0,66827,Full-time,No,113,36,2023,3,Q1
+JOB0010,2023-03-26,Finance & Accounting,Accounts Executive,Matara,"Communication, Teamwork, Problem Solving",1,124686,Part-time,Hybrid,49,35,2023,3,Q1
+JOB0017,2023-03-28,IT/Software,Full Stack Developer,Galle,"React, JavaScript, REST API",1,166619,Full-time,Yes,134,42,2023,3,Q1
+JOB0572,2023-03-28,BPO/Customer Service,Technical Support Specialist,Galle,"Technical Knowledge, Ticketing Systems, Troubleshooting",10,47916,Full-time,No,64,20,2023,3,Q1
+JOB0479,2023-03-31,E-commerce,Content Writer,Matara,"SEO Writing, Content Writing, WordPress, Research",10,112371,Part-time,No,77,25,2023,3,Q1
+JOB0340,2023-04-01,Healthcare,Medical Officer,Jaffna,"Communication, Teamwork, Problem Solving",6,140500,Part-time,No,76,89,2023,4,Q2
+JOB0338,2023-04-01,Banking,Loan Officer,Galle,"Communication, Teamwork, Problem Solving",5,158063,Full-time,Hybrid,178,86,2023,4,Q2
+JOB0365,2023-04-02,Telecommunications,Customer Care Executive,Kandy,"Communication, Teamwork, Problem Solving",10,133420,Full-time,Hybrid,103,72,2023,4,Q2
+JOB0531,2023-04-04,Finance & Accounting,Payroll Specialist,Kurunegala,"Communication, Teamwork, Problem Solving",4,140863,Contract,No,189,57,2023,4,Q2
+JOB0185,2023-04-06,Tourism & Hospitality,Front Desk Executive,Jaffna,"Communication, Teamwork, Problem Solving",3,81196,Full-time,No,132,59,2023,4,Q2
+JOB0490,2023-04-07,Finance & Accounting,Auditor,Matara,"Communication, Teamwork, Problem Solving",2,111491,Full-time,No,183,44,2023,4,Q2
+JOB0223,2023-04-08,Tourism & Hospitality,Hotel Manager,Colombo,"Communication, Teamwork, Problem Solving",0,77843,Full-time,No,151,75,2023,4,Q2
+JOB0139,2023-04-09,Finance & Accounting,Financial Analyst,Galle,"Data Analysis, Financial Modeling, Forecasting",5,146760,Contract,No,162,63,2023,4,Q2
+JOB0477,2023-04-10,Apparel/Textiles,Merchandiser,Galle,"Communication, Teamwork, Problem Solving",6,81542,Full-time,No,91,84,2023,4,Q2
+JOB0033,2023-04-12,Manufacturing,Production Manager,Matara,"Communication, Teamwork, Problem Solving",6,75313,Full-time,Hybrid,81,59,2023,4,Q2
+JOB0448,2023-04-19,IT/Software,Cybersecurity Specialist,Jaffna,"Penetration Testing, Compliance, SIEM, Network Security",2,145508,Part-time,No,106,43,2023,4,Q2
+JOB0496,2023-04-21,Manufacturing,Operations Manager,Gampaha,"Communication, Teamwork, Problem Solving",5,53418,Full-time,Hybrid,44,79,2023,4,Q2
+JOB0002,2023-04-22,Banking,Compliance Officer,Negombo,"Communication, Teamwork, Problem Solving",8,73478,Full-time,No,149,68,2023,4,Q2
+JOB0207,2023-04-25,Apparel/Textiles,Quality Inspector,Galle,"Communication, Teamwork, Problem Solving",10,77845,Part-time,Hybrid,70,53,2023,4,Q2
+JOB0394,2023-04-26,BPO/Customer Service,Sales Executive,Kurunegala,"Negotiation, Lead Generation, CRM",5,69533,Full-time,No,159,34,2023,4,Q2
+JOB0163,2023-04-30,Telecommunications,Network Engineer,Kandy,"Communication, Teamwork, Problem Solving",8,107303,Full-time,No,151,31,2023,4,Q2
+JOB0021,2023-04-30,Finance & Accounting,Tax Consultant,Matara,"Communication, Teamwork, Problem Solving",7,123653,Full-time,No,25,36,2023,4,Q2
+JOB0376,2023-05-02,Banking,Branch Manager,Colombo,"Communication, Teamwork, Problem Solving",0,160824,Contract,No,185,55,2023,5,Q2
+JOB0109,2023-05-03,Apparel/Textiles,Quality Inspector,Kandy,"Communication, Teamwork, Problem Solving",2,41034,Full-time,Yes,117,82,2023,5,Q2
+JOB0053,2023-05-04,Finance & Accounting,Tax Consultant,Kurunegala,"Communication, Teamwork, Problem Solving",1,147747,Full-time,Yes,189,47,2023,5,Q2
+JOB0014,2023-05-06,IT/Software,Data Analyst,Galle,"Python, Excel, Statistics",8,279387,Part-time,Yes,131,85,2023,5,Q2
+JOB0491,2023-05-08,Apparel/Textiles,Production Executive,Negombo,"Communication, Teamwork, Problem Solving",4,67948,Contract,No,148,31,2023,5,Q2
+JOB0172,2023-05-11,Telecommunications,Network Engineer,Matara,"Communication, Teamwork, Problem Solving",7,95058,Full-time,Yes,84,64,2023,5,Q2
+JOB0214,2023-05-12,Apparel/Textiles,Production Executive,Kurunegala,"Communication, Teamwork, Problem Solving",3,65993,Full-time,Hybrid,107,74,2023,5,Q2
+JOB0481,2023-05-12,BPO/Customer Service,Sales Executive,Jaffna,"CRM, Lead Generation, Sales, Negotiation",6,67104,Full-time,Yes,98,18,2023,5,Q2
+JOB0237,2023-05-12,Healthcare,Lab Technician,Galle,"Communication, Teamwork, Problem Solving",6,133479,Full-time,Hybrid,61,90,2023,5,Q2
+JOB0571,2023-05-13,Finance & Accounting,Accountant,Gampaha,"QuickBooks, Financial Reporting, Excel, Tally",2,140114,Contract,Yes,37,29,2023,5,Q2
+JOB0093,2023-05-16,Banking,Loan Officer,Gampaha,"Communication, Teamwork, Problem Solving",2,144177,Full-time,Yes,107,45,2023,5,Q2
+JOB0024,2023-05-20,Apparel/Textiles,Fashion Designer,Kurunegala,"Communication, Teamwork, Problem Solving",10,42604,Full-time,No,154,81,2023,5,Q2
+JOB0045,2023-05-22,Tourism & Hospitality,Events Coordinator,Jaffna,"Communication, Teamwork, Problem Solving",3,66758,Full-time,Yes,83,45,2023,5,Q2
+JOB0488,2023-05-22,Banking,Branch Manager,Kurunegala,"Communication, Teamwork, Problem Solving",7,113721,Full-time,Yes,98,60,2023,5,Q2
+JOB0300,2023-05-23,Manufacturing,Warehouse Supervisor,Kurunegala,"Communication, Teamwork, Problem Solving",0,119951,Part-time,Hybrid,157,64,2023,5,Q2
+JOB0173,2023-05-24,Finance & Accounting,Payroll Specialist,Gampaha,"Communication, Teamwork, Problem Solving",10,102917,Part-time,Yes,50,78,2023,5,Q2
+JOB0241,2023-05-24,Healthcare,Medical Officer,Matara,"Communication, Teamwork, Problem Solving",10,71612,Freelance,No,112,57,2023,5,Q2
+JOB0426,2023-05-24,Tourism & Hospitality,Hotel Manager,Kurunegala,"Communication, Teamwork, Problem Solving",5,61144,Full-time,Hybrid,131,55,2023,5,Q2
+JOB0293,2023-05-27,BPO/Customer Service,Content Moderator,Negombo,"Communication, Teamwork, Problem Solving",2,46678,Full-time,Yes,66,31,2023,5,Q2
+JOB0031,2023-05-27,BPO/Customer Service,Chat Support Agent,Galle,"Communication, Teamwork, Problem Solving",6,76692,Freelance,Hybrid,70,35,2023,5,Q2
+JOB0234,2023-05-31,Manufacturing,Operations Manager,Colombo,"Communication, Teamwork, Problem Solving",10,114985,Full-time,No,44,53,2023,5,Q2
+JOB0417,2023-06-04,Tourism & Hospitality,Events Coordinator,Negombo,"Communication, Teamwork, Problem Solving",6,57567,Part-time,Hybrid,178,30,2023,6,Q2
+JOB0437,2023-06-05,Telecommunications,Network Engineer,Kurunegala,"Communication, Teamwork, Problem Solving",5,118963,Full-time,No,152,47,2023,6,Q2
+JOB0192,2023-06-11,Finance & Accounting,Accountant,Gampaha,"Financial Reporting, Tally, QuickBooks, Tax Knowledge, Excel",5,127538,Full-time,No,57,32,2023,6,Q2
+JOB0218,2023-06-12,Telecommunications,Field Service Technician,Gampaha,"Communication, Teamwork, Problem Solving",2,120401,Part-time,No,45,84,2023,6,Q2
+JOB0025,2023-06-19,Manufacturing,Operations Manager,Gampaha,"Communication, Teamwork, Problem Solving",3,91180,Full-time,Yes,175,53,2023,6,Q2
+JOB0194,2023-06-20,Healthcare,Medical Transcriptionist,Jaffna,"Communication, Teamwork, Problem Solving",0,121945,Full-time,No,50,66,2023,6,Q2
+JOB0403,2023-06-24,Apparel/Textiles,Fashion Designer,Jaffna,"Communication, Teamwork, Problem Solving",2,77366,Full-time,No,160,24,2023,6,Q2
+JOB0028,2023-06-26,BPO/Customer Service,Team Leader,Matara,"Performance Monitoring, Team Management, Leadership, Coaching",4,53342,Full-time,Yes,23,26,2023,6,Q2
+JOB0073,2023-06-26,Apparel/Textiles,Production Executive,Kandy,"Communication, Teamwork, Problem Solving",1,67861,Full-time,No,78,33,2023,6,Q2
+JOB0015,2023-06-27,Banking,Compliance Officer,Jaffna,"Communication, Teamwork, Problem Solving",3,125461,Contract,Hybrid,186,40,2023,6,Q2
+JOB0118,2023-07-02,IT/Software,DevOps Engineer,Kandy,"CI/CD, Kubernetes, Linux, Docker, AWS",2,127554,Full-time,No,46,18,2023,7,Q3
+JOB0059,2023-07-04,Healthcare,Medical Officer,Matara,"Communication, Teamwork, Problem Solving",4,82718,Contract,Yes,128,87,2023,7,Q3
+JOB0317,2023-07-05,Apparel/Textiles,Merchandiser,Negombo,"Communication, Teamwork, Problem Solving",1,49904,Full-time,No,148,67,2023,7,Q3
+JOB0279,2023-07-05,BPO/Customer Service,Customer Service Representative,Galle,"English, CRM Software, Communication, Problem Solving",1,77791,Full-time,No,24,78,2023,7,Q3
+JOB0326,2023-07-06,E-commerce,Social Media Manager,Kurunegala,"Communication, Teamwork, Problem Solving",3,61703,Full-time,Hybrid,114,77,2023,7,Q3
+JOB0077,2023-07-06,Apparel/Textiles,Merchandiser,Matara,"Communication, Teamwork, Problem Solving",2,90011,Full-time,No,81,38,2023,7,Q3
+JOB0450,2023-07-12,Apparel/Textiles,CAD Operator,Galle,"Communication, Teamwork, Problem Solving",5,52306,Full-time,Yes,146,17,2023,7,Q3
+JOB0495,2023-07-15,Finance & Accounting,Payroll Specialist,Negombo,"Communication, Teamwork, Problem Solving",1,84632,Full-time,Yes,166,49,2023,7,Q3
+JOB0266,2023-07-16,BPO/Customer Service,Chat Support Agent,Matara,"Communication, Teamwork, Problem Solving",1,56409,Full-time,Hybrid,52,21,2023,7,Q3
+JOB0416,2023-07-19,E-commerce,E-commerce Manager,Gampaha,"Communication, Teamwork, Problem Solving",8,104162,Part-time,No,104,86,2023,7,Q3
+JOB0598,2023-07-20,BPO/Customer Service,Quality Analyst,Colombo,"Auditing, Quality Assurance, Analytics, Reporting",8,67298,Contract,No,117,71,2023,7,Q3
+JOB0029,2023-07-21,IT/Software,Software Engineer,Galle,"Agile, Java, React, Git, SQL",8,195824,Part-time,No,38,24,2023,7,Q3
+JOB0276,2023-07-23,BPO/Customer Service,Sales Executive,Jaffna,"Negotiation, Sales, Lead Generation",10,65606,Full-time,Hybrid,184,23,2023,7,Q3
+JOB0414,2023-08-04,Apparel/Textiles,Fashion Designer,Kandy,"Communication, Teamwork, Problem Solving",4,66781,Full-time,Hybrid,11,88,2023,8,Q3
+JOB0040,2023-08-05,Banking,Compliance Officer,Negombo,"Communication, Teamwork, Problem Solving",1,113933,Contract,Hybrid,182,54,2023,8,Q3
+JOB0579,2023-08-07,Manufacturing,Logistics Coordinator,Kandy,"Communication, Teamwork, Problem Solving",5,82949,Full-time,Hybrid,126,20,2023,8,Q3
+JOB0141,2023-08-07,Telecommunications,Telecom Analyst,Kurunegala,"Communication, Teamwork, Problem Solving",3,129993,Full-time,Hybrid,130,39,2023,8,Q3
+JOB0447,2023-08-11,Telecommunications,Sales Manager,Jaffna,"Communication, Teamwork, Problem Solving",7,61090,Contract,No,12,70,2023,8,Q3
+JOB0186,2023-08-13,BPO/Customer Service,Voice Process Executive,Jaffna,"Communication, Teamwork, Problem Solving",5,65856,Freelance,Hybrid,84,20,2023,8,Q3
+JOB0162,2023-08-18,Tourism & Hospitality,Tour Guide,Galle,"Communication, Teamwork, Problem Solving",2,81649,Part-time,No,41,40,2023,8,Q3
+JOB0599,2023-08-21,Manufacturing,Production Manager,Kurunegala,"Communication, Teamwork, Problem Solving",3,52888,Contract,No,95,67,2023,8,Q3
+JOB0510,2023-08-23,Telecommunications,Telecom Analyst,Colombo,"Communication, Teamwork, Problem Solving",4,75993,Full-time,No,63,41,2023,8,Q3
+JOB0339,2023-08-25,BPO/Customer Service,Content Moderator,Kandy,"Communication, Teamwork, Problem Solving",4,48384,Part-time,No,56,57,2023,8,Q3
+JOB0307,2023-08-27,Finance & Accounting,Financial Analyst,Kandy,"Forecasting, Data Analysis, Financial Modeling",10,83865,Full-time,Hybrid,166,43,2023,8,Q3
+JOB0561,2023-08-27,Telecommunications,Network Engineer,Jaffna,"Communication, Teamwork, Problem Solving",7,143726,Contract,Yes,119,56,2023,8,Q3
+JOB0337,2023-08-29,Tourism & Hospitality,Restaurant Manager,Kurunegala,"Communication, Teamwork, Problem Solving",6,61515,Part-time,No,156,39,2023,8,Q3
+JOB0170,2023-09-02,Telecommunications,Network Engineer,Galle,"Communication, Teamwork, Problem Solving",2,67852,Full-time,No,62,58,2023,9,Q3
+JOB0456,2023-09-04,Manufacturing,Warehouse Supervisor,Colombo,"Communication, Teamwork, Problem Solving",3,56827,Freelance,Yes,121,56,2023,9,Q3
+JOB0568,2023-09-05,E-commerce,Digital Marketing Specialist,Gampaha,"Analytics, SEO, Google Ads, Social Media Marketing",0,68342,Full-time,Hybrid,161,45,2023,9,Q3
+JOB0319,2023-09-05,BPO/Customer Service,Voice Process Executive,Kandy,"Communication, Teamwork, Problem Solving",8,42275,Full-time,No,156,33,2023,9,Q3
+JOB0210,2023-09-08,Finance & Accounting,Payroll Specialist,Galle,"Communication, Teamwork, Problem Solving",0,120689,Full-time,Hybrid,152,82,2023,9,Q3
+JOB0380,2023-09-09,Telecommunications,Sales Manager,Galle,"Communication, Teamwork, Problem Solving",5,132110,Full-time,Hybrid,144,43,2023,9,Q3
+JOB0056,2023-09-10,Apparel/Textiles,Merchandiser,Kandy,"Communication, Teamwork, Problem Solving",10,92181,Part-time,No,119,62,2023,9,Q3
+JOB0489,2023-09-12,Manufacturing,Supply Chain Analyst,Jaffna,"Communication, Teamwork, Problem Solving",0,86159,Full-time,Hybrid,17,86,2023,9,Q3
+JOB0325,2023-09-13,Tourism & Hospitality,Front Desk Executive,Kurunegala,"Communication, Teamwork, Problem Solving",1,67218,Freelance,Yes,86,71,2023,9,Q3
+JOB0239,2023-09-13,Manufacturing,Warehouse Supervisor,Matara,"Communication, Teamwork, Problem Solving",6,70203,Part-time,Yes,163,76,2023,9,Q3
+JOB0539,2023-09-16,E-commerce,Graphic Designer,Kurunegala,"Adobe Photoshop, InDesign, Creativity, Illustrator",4,66718,Full-time,Hybrid,23,15,2023,9,Q3
+JOB0267,2023-09-18,Manufacturing,Logistics Coordinator,Negombo,"Communication, Teamwork, Problem Solving",1,61953,Full-time,No,43,90,2023,9,Q3
+JOB0537,2023-09-23,E-commerce,Digital Marketing Specialist,Galle,"Analytics, Google Ads, Social Media Marketing",1,58058,Full-time,Yes,158,15,2023,9,Q3
+JOB0215,2023-09-24,Tourism & Hospitality,Front Desk Executive,Kurunegala,"Communication, Teamwork, Problem Solving",7,68607,Full-time,Hybrid,194,75,2023,9,Q3
+JOB0137,2023-09-27,Banking,Loan Officer,Kandy,"Communication, Teamwork, Problem Solving",5,154343,Contract,No,199,82,2023,9,Q3
+JOB0244,2023-10-01,Healthcare,Lab Technician,Kurunegala,"Communication, Teamwork, Problem Solving",8,114229,Full-time,No,122,72,2023,10,Q4
+JOB0055,2023-10-01,Apparel/Textiles,CAD Operator,Kandy,"Communication, Teamwork, Problem Solving",3,65995,Full-time,No,170,46,2023,10,Q4
+JOB0529,2023-10-02,Healthcare,Medical Officer,Galle,"Communication, Teamwork, Problem Solving",1,199849,Freelance,Hybrid,129,87,2023,10,Q4
+JOB0171,2023-10-03,Healthcare,Medical Transcriptionist,Kurunegala,"Communication, Teamwork, Problem Solving",6,150536,Full-time,No,153,28,2023,10,Q4
+JOB0023,2023-10-05,IT/Software,Software Engineer,Kandy,"SQL, Agile, Java, Python, React, Node.js",1,128712,Full-time,No,70,66,2023,10,Q4
+JOB0395,2023-10-10,E-commerce,E-commerce Manager,Jaffna,"Communication, Teamwork, Problem Solving",5,50633,Full-time,Yes,199,70,2023,10,Q4
+JOB0026,2023-10-10,BPO/Customer Service,Customer Service Representative,Galle,"Communication, English, Problem Solving, CRM Software",5,48680,Contract,Hybrid,104,51,2023,10,Q4
+JOB0512,2023-10-11,Tourism & Hospitality,Events Coordinator,Gampaha,"Communication, Teamwork, Problem Solving",10,72692,Full-time,Yes,154,78,2023,10,Q4
+JOB0165,2023-10-12,BPO/Customer Service,Content Moderator,Galle,"Communication, Teamwork, Problem Solving",8,70528,Full-time,Hybrid,151,90,2023,10,Q4
+JOB0494,2023-10-13,Finance & Accounting,Finance Manager,Gampaha,"Communication, Teamwork, Problem Solving",5,63864,Contract,No,115,53,2023,10,Q4
+JOB0595,2023-10-19,Healthcare,Pharmacist,Gampaha,"Communication, Teamwork, Problem Solving",6,192006,Full-time,Yes,98,72,2023,10,Q4
+JOB0236,2023-10-19,Apparel/Textiles,Production Executive,Gampaha,"Communication, Teamwork, Problem Solving",5,71392,Full-time,No,91,52,2023,10,Q4
+JOB0463,2023-10-19,BPO/Customer Service,Voice Process Executive,Kurunegala,"Communication, Teamwork, Problem Solving",8,52443,Full-time,Hybrid,49,51,2023,10,Q4
+JOB0383,2023-10-20,E-commerce,Digital Marketing Specialist,Jaffna,"Social Media Marketing, Analytics, Google Ads, SEO",5,117746,Full-time,No,134,20,2023,10,Q4
+JOB0282,2023-10-22,Manufacturing,Logistics Coordinator,Colombo,"Communication, Teamwork, Problem Solving",4,91934,Contract,No,40,79,2023,10,Q4
+JOB0346,2023-10-22,Banking,Credit Analyst,Jaffna,"Communication, Teamwork, Problem Solving",0,72348,Full-time,Yes,187,59,2023,10,Q4
+JOB0076,2023-10-23,Apparel/Textiles,Quality Inspector,Colombo,"Communication, Teamwork, Problem Solving",1,41695,Full-time,No,157,90,2023,10,Q4
+JOB0193,2023-10-25,Manufacturing,Production Manager,Colombo,"Communication, Teamwork, Problem Solving",6,84181,Full-time,Hybrid,94,53,2023,10,Q4
+JOB0461,2023-10-25,Telecommunications,Customer Care Executive,Jaffna,"Communication, Teamwork, Problem Solving",8,138470,Full-time,No,125,52,2023,10,Q4
+JOB0008,2023-10-27,IT/Software,Data Analyst,Negombo,"Power BI, Excel, Statistics",3,97350,Contract,No,193,55,2023,10,Q4
+JOB0600,2023-10-31,Telecommunications,Sales Manager,Galle,"Communication, Teamwork, Problem Solving",8,147274,Contract,No,87,87,2023,10,Q4
+JOB0478,2023-11-01,Banking,Credit Analyst,Kandy,"Communication, Teamwork, Problem Solving",0,90079,Full-time,Hybrid,124,88,2023,11,Q4
+JOB0292,2023-11-03,Finance & Accounting,Accountant,Gampaha,"Financial Reporting, Tax Knowledge, Excel, QuickBooks",4,148759,Full-time,Hybrid,17,66,2023,11,Q4
+JOB0356,2023-11-05,Healthcare,Lab Technician,Matara,"Communication, Teamwork, Problem Solving",1,130335,Full-time,No,39,66,2023,11,Q4
+JOB0406,2023-11-08,BPO/Customer Service,Content Moderator,Negombo,"Communication, Teamwork, Problem Solving",7,71379,Full-time,Yes,115,17,2023,11,Q4
+JOB0034,2023-11-10,IT/Software,Full Stack Developer,Kandy,"React, REST API, Node.js, JavaScript, MongoDB",6,236387,Full-time,Hybrid,121,80,2023,11,Q4
+JOB0303,2023-11-11,Apparel/Textiles,Production Executive,Colombo,"Communication, Teamwork, Problem Solving",2,92851,Full-time,Yes,92,22,2023,11,Q4
+JOB0516,2023-11-14,Healthcare,Lab Technician,Gampaha,"Communication, Teamwork, Problem Solving",2,67632,Full-time,Hybrid,182,76,2023,11,Q4
+JOB0573,2023-11-19,BPO/Customer Service,Team Leader,Kandy,"Team Management, Coaching, Leadership, Performance Monitoring",2,76268,Full-time,Hybrid,20,32,2023,11,Q4
+JOB0584,2023-11-19,Finance & Accounting,Accountant,Galle,"Financial Reporting, Tally, QuickBooks",7,121018,Full-time,Hybrid,66,52,2023,11,Q4
+JOB0046,2023-11-19,Healthcare,Healthcare Administrator,Kandy,"Communication, Teamwork, Problem Solving",2,81122,Full-time,No,49,42,2023,11,Q4
+JOB0060,2023-11-20,IT/Software,Cloud Architect,Colombo,"Azure, Terraform, AWS, Cloud Security, GCP",4,169217,Contract,Hybrid,80,86,2023,11,Q4
+JOB0335,2023-11-20,Tourism & Hospitality,Front Desk Executive,Negombo,"Communication, Teamwork, Problem Solving",4,53145,Full-time,Hybrid,176,53,2023,11,Q4
+JOB0360,2023-11-24,Banking,Compliance Officer,Kurunegala,"Communication, Teamwork, Problem Solving",10,160209,Full-time,No,73,76,2023,11,Q4
+JOB0312,2023-11-24,Apparel/Textiles,Fashion Designer,Matara,"Communication, Teamwork, Problem Solving",7,98538,Part-time,No,177,36,2023,11,Q4
+JOB0090,2023-11-25,Apparel/Textiles,CAD Operator,Kurunegala,"Communication, Teamwork, Problem Solving",1,82587,Contract,Hybrid,146,63,2023,11,Q4
+JOB0085,2023-11-28,Banking,Branch Manager,Gampaha,"Communication, Teamwork, Problem Solving",0,177551,Full-time,Yes,160,89,2023,11,Q4
+JOB0012,2023-11-28,BPO/Customer Service,Sales Executive,Negombo,"Negotiation, Lead Generation, Sales, CRM",2,72806,Full-time,Yes,170,53,2023,11,Q4
+JOB0535,2023-11-29,Manufacturing,Operations Manager,Galle,"Communication, Teamwork, Problem Solving",6,106511,Full-time,No,187,45,2023,11,Q4
+JOB0151,2023-12-08,Manufacturing,Operations Manager,Kurunegala,"Communication, Teamwork, Problem Solving",10,63587,Part-time,No,21,60,2023,12,Q4
+JOB0121,2023-12-08,E-commerce,Digital Marketing Specialist,Negombo,"Analytics, Social Media Marketing, Google Ads, SEO",6,78903,Freelance,Yes,62,53,2023,12,Q4
+JOB0167,2023-12-10,Banking,Branch Manager,Jaffna,"Communication, Teamwork, Problem Solving",4,80336,Full-time,Hybrid,80,31,2023,12,Q4
+JOB0117,2023-12-19,Banking,Branch Manager,Colombo,"Communication, Teamwork, Problem Solving",4,85058,Full-time,Hybrid,153,86,2023,12,Q4
+JOB0063,2023-12-22,Telecommunications,Customer Care Executive,Galle,"Communication, Teamwork, Problem Solving",4,100189,Full-time,Hybrid,90,30,2023,12,Q4
+JOB0548,2023-12-24,Tourism & Hospitality,Front Desk Executive,Jaffna,"Communication, Teamwork, Problem Solving",0,45977,Full-time,No,87,87,2023,12,Q4
+JOB0459,2023-12-30,Finance & Accounting,Finance Manager,Gampaha,"Communication, Teamwork, Problem Solving",1,130300,Full-time,Yes,152,59,2023,12,Q4
+JOB0154,2024-01-02,IT/Software,UI/UX Designer,Jaffna,"Figma, Sketch, Adobe XD, Wireframing, Prototyping",5,181356,Freelance,No,137,62,2024,1,Q1
+JOB0353,2024-01-04,E-commerce,Content Writer,Gampaha,"Content Writing, Research, SEO Writing, WordPress",5,113001,Full-time,Yes,32,29,2024,1,Q1
+JOB0349,2024-01-06,Manufacturing,Quality Control Inspector,Colombo,"Communication, Teamwork, Problem Solving",0,102873,Full-time,Hybrid,43,42,2024,1,Q1
+JOB0396,2024-01-07,Finance & Accounting,Finance Manager,Kandy,"Communication, Teamwork, Problem Solving",7,103458,Full-time,No,88,77,2024,1,Q1
+JOB0355,2024-01-08,Healthcare,Lab Technician,Galle,"Communication, Teamwork, Problem Solving",1,90382,Contract,Hybrid,12,32,2024,1,Q1
+JOB0399,2024-01-20,E-commerce,E-commerce Manager,Kurunegala,"Communication, Teamwork, Problem Solving",4,127280,Full-time,No,33,65,2024,1,Q1
+JOB0474,2024-01-22,Apparel/Textiles,Production Executive,Negombo,"Communication, Teamwork, Problem Solving",4,55269,Contract,Yes,112,87,2024,1,Q1
+JOB0462,2024-01-22,Telecommunications,Network Engineer,Negombo,"Communication, Teamwork, Problem Solving",8,143627,Full-time,Yes,14,61,2024,1,Q1
+JOB0106,2024-01-23,Banking,Branch Manager,Negombo,"Communication, Teamwork, Problem Solving",6,77936,Full-time,Hybrid,126,26,2024,1,Q1
+JOB0280,2024-01-24,Finance & Accounting,Auditor,Colombo,"Communication, Teamwork, Problem Solving",10,73487,Full-time,Yes,199,80,2024,1,Q1
+JOB0285,2024-01-25,Apparel/Textiles,CAD Operator,Colombo,"Communication, Teamwork, Problem Solving",3,90633,Part-time,No,72,34,2024,1,Q1
+JOB0329,2024-01-25,Telecommunications,Sales Manager,Galle,"Communication, Teamwork, Problem Solving",1,112028,Full-time,Yes,135,72,2024,1,Q1
+JOB0413,2024-01-29,IT/Software,Cybersecurity Specialist,Kandy,"Penetration Testing, Compliance, SIEM, Network Security",10,234415,Full-time,Yes,132,44,2024,1,Q1
+JOB0159,2024-01-30,Healthcare,Lab Technician,Negombo,"Communication, Teamwork, Problem Solving",10,80155,Full-time,No,90,50,2024,1,Q1
+JOB0471,2024-02-01,E-commerce,Graphic Designer,Matara,"InDesign, Creativity, Adobe Photoshop, Illustrator",8,99160,Contract,Yes,125,72,2024,2,Q1
+JOB0221,2024-02-04,IT/Software,AI/ML Engineer,Matara,"Machine Learning, Python, Deep Learning, TensorFlow, PyTorch",8,84384,Part-time,No,83,17,2024,2,Q1
+JOB0497,2024-02-05,Finance & Accounting,Payroll Specialist,Matara,"Communication, Teamwork, Problem Solving",7,110785,Full-time,Yes,67,19,2024,2,Q1
+JOB0574,2024-02-10,Finance & Accounting,Accountant,Negombo,"QuickBooks, Excel, Tax Knowledge, Financial Reporting, Tally",10,145426,Contract,No,131,31,2024,2,Q1
+JOB0404,2024-02-10,Manufacturing,Supply Chain Analyst,Galle,"Communication, Teamwork, Problem Solving",5,103194,Contract,No,133,15,2024,2,Q1
+JOB0333,2024-02-11,Healthcare,Lab Technician,Kandy,"Communication, Teamwork, Problem Solving",3,126059,Full-time,No,169,65,2024,2,Q1
+JOB0505,2024-02-19,IT/Software,DevOps Engineer,Galle,"Linux, Docker, CI/CD, AWS, Kubernetes",0,281629,Full-time,No,124,51,2024,2,Q1
+JOB0233,2024-02-19,Finance & Accounting,Financial Analyst,Kurunegala,"Data Analysis, Excel, Forecasting, Financial Modeling",2,68292,Full-time,No,133,24,2024,2,Q1
+JOB0112,2024-02-20,Apparel/Textiles,Fashion Designer,Negombo,"Communication, Teamwork, Problem Solving",7,59326,Full-time,No,189,29,2024,2,Q1
+JOB0435,2024-02-20,Manufacturing,Quality Control Inspector,Kurunegala,"Communication, Teamwork, Problem Solving",7,69601,Contract,Yes,137,32,2024,2,Q1
+JOB0439,2024-02-20,Apparel/Textiles,Quality Inspector,Matara,"Communication, Teamwork, Problem Solving",2,70392,Contract,No,96,68,2024,2,Q1
+JOB0541,2024-02-21,E-commerce,Social Media Manager,Matara,"Communication, Teamwork, Problem Solving",2,77684,Full-time,Yes,108,61,2024,2,Q1
+JOB0342,2024-02-21,Banking,Branch Manager,Matara,"Communication, Teamwork, Problem Solving",0,124146,Contract,Yes,61,58,2024,2,Q1
+JOB0202,2024-02-23,Telecommunications,Field Service Technician,Kurunegala,"Communication, Teamwork, Problem Solving",1,109236,Full-time,No,148,32,2024,2,Q1
+JOB0323,2024-02-24,Telecommunications,Sales Manager,Colombo,"Communication, Teamwork, Problem Solving",7,139817,Full-time,Yes,46,66,2024,2,Q1
+JOB0593,2024-02-24,Healthcare,Lab Technician,Negombo,"Communication, Teamwork, Problem Solving",5,70714,Full-time,No,190,23,2024,2,Q1
+JOB0591,2024-02-28,Healthcare,Healthcare Administrator,Negombo,"Communication, Teamwork, Problem Solving",4,68575,Full-time,Yes,166,84,2024,2,Q1
+JOB0361,2024-02-28,Finance & Accounting,Payroll Specialist,Gampaha,"Communication, Teamwork, Problem Solving",10,133183,Full-time,No,50,79,2024,2,Q1
+JOB0035,2024-02-28,Apparel/Textiles,Production Executive,Kurunegala,"Communication, Teamwork, Problem Solving",0,56693,Part-time,Yes,147,40,2024,2,Q1
+JOB0411,2024-02-29,Finance & Accounting,Accountant,Kandy,"Tally, Tax Knowledge, QuickBooks",1,139365,Full-time,Hybrid,163,19,2024,2,Q1
+JOB0088,2024-03-01,Finance & Accounting,Tax Consultant,Kandy,"Communication, Teamwork, Problem Solving",2,64852,Full-time,No,35,71,2024,3,Q1
+JOB0135,2024-03-04,E-commerce,Content Writer,Kurunegala,"Research, Content Writing, SEO Writing",8,62387,Full-time,Yes,195,34,2024,3,Q1
+JOB0387,2024-03-05,Telecommunications,Field Service Technician,Kandy,"Communication, Teamwork, Problem Solving",5,116757,Full-time,No,146,15,2024,3,Q1
+JOB0402,2024-03-05,Telecommunications,Field Service Technician,Jaffna,"Communication, Teamwork, Problem Solving",0,66086,Freelance,No,190,81,2024,3,Q1
+JOB0211,2024-03-06,Manufacturing,Warehouse Supervisor,Negombo,"Communication, Teamwork, Problem Solving",5,76651,Full-time,Hybrid,104,26,2024,3,Q1
+JOB0455,2024-03-07,Tourism & Hospitality,Front Desk Executive,Gampaha,"Communication, Teamwork, Problem Solving",0,45394,Part-time,No,41,47,2024,3,Q1
+JOB0569,2024-03-07,BPO/Customer Service,Sales Executive,Gampaha,"Lead Generation, Sales, CRM, Negotiation",5,43673,Part-time,Yes,40,42,2024,3,Q1
+JOB0230,2024-03-08,Healthcare,Pharmacist,Kandy,"Communication, Teamwork, Problem Solving",1,87931,Full-time,No,102,49,2024,3,Q1
+JOB0555,2024-03-09,Telecommunications,Customer Care Executive,Kurunegala,"Communication, Teamwork, Problem Solving",8,79025,Contract,Yes,124,63,2024,3,Q1
+JOB0150,2024-03-10,Telecommunications,Network Engineer,Kandy,"Communication, Teamwork, Problem Solving",6,143318,Freelance,Yes,14,60,2024,3,Q1
+JOB0503,2024-03-16,E-commerce,Content Writer,Kandy,"Content Writing, WordPress, SEO Writing, Research",1,109596,Full-time,No,192,35,2024,3,Q1
+JOB0296,2024-03-19,Telecommunications,Network Engineer,Jaffna,"Communication, Teamwork, Problem Solving",6,110165,Full-time,Yes,57,50,2024,3,Q1
+JOB0200,2024-03-21,Tourism & Hospitality,Hotel Manager,Colombo,"Communication, Teamwork, Problem Solving",3,83877,Full-time,Yes,98,23,2024,3,Q1
+JOB0324,2024-03-21,Healthcare,Medical Transcriptionist,Kurunegala,"Communication, Teamwork, Problem Solving",0,122279,Part-time,Hybrid,105,17,2024,3,Q1
+JOB0235,2024-03-21,Healthcare,Healthcare Administrator,Jaffna,"Communication, Teamwork, Problem Solving",5,159585,Full-time,No,176,32,2024,3,Q1
+JOB0097,2024-03-21,Tourism & Hospitality,Hotel Manager,Kurunegala,"Communication, Teamwork, Problem Solving",0,72088,Contract,Hybrid,83,44,2024,3,Q1
+JOB0442,2024-03-24,BPO/Customer Service,Team Leader,Galle,"Coaching, Performance Monitoring, Leadership",6,41727,Full-time,Hybrid,36,48,2024,3,Q1
+JOB0016,2024-03-28,Healthcare,Lab Technician,Negombo,"Communication, Teamwork, Problem Solving",7,195679,Full-time,Yes,96,17,2024,3,Q1
+JOB0042,2024-03-29,Manufacturing,Quality Control Inspector,Gampaha,"Communication, Teamwork, Problem Solving",1,50726,Part-time,Yes,188,81,2024,3,Q1
+JOB0068,2024-03-31,Telecommunications,Network Engineer,Negombo,"Communication, Teamwork, Problem Solving",0,135631,Full-time,Hybrid,87,25,2024,3,Q1
+JOB0176,2024-03-31,IT/Software,AI/ML Engineer,Galle,"PyTorch, Deep Learning, Python, TensorFlow",7,212187,Part-time,Yes,169,30,2024,3,Q1
+JOB0294,2024-03-31,Healthcare,Medical Transcriptionist,Kandy,"Communication, Teamwork, Problem Solving",10,82030,Full-time,Hybrid,29,17,2024,3,Q1
+JOB0534,2024-03-31,Apparel/Textiles,CAD Operator,Kandy,"Communication, Teamwork, Problem Solving",10,55635,Full-time,Yes,133,64,2024,3,Q1
+JOB0037,2024-04-04,Tourism & Hospitality,Events Coordinator,Jaffna,"Communication, Teamwork, Problem Solving",3,43341,Full-time,Hybrid,183,37,2024,4,Q2
+JOB0364,2024-04-06,E-commerce,Digital Marketing Specialist,Colombo,"SEO, Social Media Marketing, Google Ads",8,116628,Full-time,No,97,61,2024,4,Q2
+JOB0080,2024-04-07,Banking,Relationship Manager,Gampaha,"Communication, Teamwork, Problem Solving",8,156200,Full-time,Yes,142,61,2024,4,Q2
+JOB0038,2024-04-11,Banking,Relationship Manager,Gampaha,"Communication, Teamwork, Problem Solving",4,109829,Full-time,Hybrid,165,56,2024,4,Q2
+JOB0157,2024-04-11,Healthcare,Healthcare Administrator,Galle,"Communication, Teamwork, Problem Solving",0,101939,Full-time,No,122,19,2024,4,Q2
+JOB0105,2024-04-15,Tourism & Hospitality,Hotel Manager,Kandy,"Communication, Teamwork, Problem Solving",5,80238,Full-time,No,70,61,2024,4,Q2
+JOB0286,2024-04-19,IT/Software,Data Analyst,Gampaha,"Statistics, Python, Power BI, Tableau, SQL",4,273483,Full-time,No,70,68,2024,4,Q2
+JOB0464,2024-04-19,Healthcare,Nurse,Colombo,"Communication, Teamwork, Problem Solving",8,85233,Full-time,Yes,43,37,2024,4,Q2
+JOB0545,2024-04-21,Banking,Compliance Officer,Kandy,"Communication, Teamwork, Problem Solving",0,118099,Freelance,No,190,62,2024,4,Q2
+JOB0260,2024-04-22,IT/Software,QA Engineer,Jaffna,"Test Automation, API Testing, Selenium, Manual Testing",3,297181,Part-time,No,135,33,2024,4,Q2
+JOB0032,2024-04-24,IT/Software,DevOps Engineer,Jaffna,"Jenkins, Docker, Kubernetes, AWS, CI/CD",0,180281,Contract,Yes,127,59,2024,4,Q2
+JOB0220,2024-04-24,Finance & Accounting,Payroll Specialist,Gampaha,"Communication, Teamwork, Problem Solving",3,142667,Full-time,Yes,65,79,2024,4,Q2
+JOB0441,2024-04-27,Finance & Accounting,Financial Analyst,Galle,"Excel, Data Analysis, Financial Modeling",4,146772,Contract,Hybrid,30,41,2024,4,Q2
+JOB0310,2024-04-27,Telecommunications,Field Service Technician,Galle,"Communication, Teamwork, Problem Solving",8,106036,Full-time,Hybrid,157,43,2024,4,Q2
+JOB0368,2024-04-28,IT/Software,AI/ML Engineer,Matara,"Machine Learning, Deep Learning, PyTorch",8,234485,Full-time,No,145,21,2024,4,Q2
+JOB0261,2024-04-28,E-commerce,SEO Specialist,Gampaha,"Communication, Teamwork, Problem Solving",1,59898,Full-time,Hybrid,187,62,2024,4,Q2
+JOB0047,2024-04-29,E-commerce,Content Writer,Gampaha,"WordPress, Content Writing, Research, SEO Writing",10,101049,Contract,Yes,157,63,2024,4,Q2
+JOB0196,2024-05-01,Banking,Loan Officer,Gampaha,"Communication, Teamwork, Problem Solving",8,169267,Contract,Hybrid,73,25,2024,5,Q2
+JOB0169,2024-05-03,Apparel/Textiles,Merchandiser,Matara,"Communication, Teamwork, Problem Solving",8,72639,Full-time,Hybrid,133,46,2024,5,Q2
+JOB0180,2024-05-03,Apparel/Textiles,Quality Inspector,Negombo,"Communication, Teamwork, Problem Solving",0,92216,Full-time,Yes,177,89,2024,5,Q2
+JOB0509,2024-05-03,Finance & Accounting,Financial Analyst,Kandy,"Excel, Forecasting, Data Analysis, Financial Modeling",4,72206,Full-time,Hybrid,27,69,2024,5,Q2
+JOB0351,2024-05-03,Telecommunications,Field Service Technician,Jaffna,"Communication, Teamwork, Problem Solving",8,76199,Full-time,Hybrid,62,16,2024,5,Q2
+JOB0217,2024-05-05,Tourism & Hospitality,Tour Guide,Kurunegala,"Communication, Teamwork, Problem Solving",5,47857,Full-time,No,72,78,2024,5,Q2
+JOB0252,2024-05-06,Apparel/Textiles,Production Executive,Galle,"Communication, Teamwork, Problem Solving",6,77670,Full-time,No,147,37,2024,5,Q2
+JOB0581,2024-05-08,Manufacturing,Operations Manager,Matara,"Communication, Teamwork, Problem Solving",3,92688,Part-time,No,35,45,2024,5,Q2
+JOB0352,2024-05-11,BPO/Customer Service,Sales Executive,Negombo,"Lead Generation, Sales, CRM, Negotiation",1,47471,Full-time,No,77,81,2024,5,Q2
+JOB0374,2024-05-15,IT/Software,Cybersecurity Specialist,Jaffna,"Network Security, Penetration Testing, Compliance",0,93910,Full-time,Hybrid,51,51,2024,5,Q2
+JOB0138,2024-05-17,Banking,Branch Manager,Negombo,"Communication, Teamwork, Problem Solving",5,72389,Full-time,Hybrid,97,77,2024,5,Q2
+JOB0257,2024-05-20,BPO/Customer Service,Technical Support Specialist,Kurunegala,"Troubleshooting, Technical Knowledge, Ticketing Systems",1,62844,Full-time,Hybrid,70,41,2024,5,Q2
+JOB0114,2024-05-24,Healthcare,Medical Transcriptionist,Kandy,"Communication, Teamwork, Problem Solving",5,126817,Freelance,No,131,23,2024,5,Q2
+JOB0258,2024-05-26,Finance & Accounting,Accounts Executive,Jaffna,"Communication, Teamwork, Problem Solving",3,78249,Contract,Hybrid,155,59,2024,5,Q2
+JOB0345,2024-05-29,E-commerce,SEO Specialist,Colombo,"Communication, Teamwork, Problem Solving",6,112573,Full-time,No,197,62,2024,5,Q2
+JOB0149,2024-05-29,IT/Software,AI/ML Engineer,Colombo,"TensorFlow, Machine Learning, Python, PyTorch, Deep Learning",8,97741,Full-time,Hybrid,139,85,2024,5,Q2
+JOB0493,2024-05-30,Finance & Accounting,Finance Manager,Galle,"Communication, Teamwork, Problem Solving",2,134035,Full-time,No,194,30,2024,5,Q2
+JOB0113,2024-05-30,Telecommunications,Telecom Analyst,Kurunegala,"Communication, Teamwork, Problem Solving",5,114239,Contract,No,196,27,2024,5,Q2
+JOB0036,2024-06-02,BPO/Customer Service,Chat Support Agent,Kurunegala,"Communication, Teamwork, Problem Solving",1,60572,Part-time,No,89,67,2024,6,Q2
+JOB0092,2024-06-07,BPO/Customer Service,Team Leader,Galle,"Team Management, Performance Monitoring, Coaching, Leadership",5,43014,Part-time,Yes,105,70,2024,6,Q2
+JOB0419,2024-06-10,BPO/Customer Service,Team Leader,Galle,"Team Management, Coaching, Leadership, Performance Monitoring",6,65187,Full-time,No,192,22,2024,6,Q2
+JOB0058,2024-06-10,Finance & Accounting,Finance Manager,Matara,"Communication, Teamwork, Problem Solving",4,128386,Full-time,Hybrid,133,74,2024,6,Q2
+JOB0277,2024-06-14,Manufacturing,Production Manager,Jaffna,"Communication, Teamwork, Problem Solving",1,82044,Contract,Yes,166,22,2024,6,Q2
+JOB0389,2024-06-15,E-commerce,SEO Specialist,Jaffna,"Communication, Teamwork, Problem Solving",7,54039,Full-time,Yes,110,84,2024,6,Q2
+JOB0027,2024-06-16,Banking,Branch Manager,Galle,"Communication, Teamwork, Problem Solving",8,150173,Full-time,Hybrid,86,28,2024,6,Q2
+JOB0405,2024-06-19,Finance & Accounting,Financial Analyst,Matara,"Data Analysis, Financial Modeling, Forecasting",2,84498,Full-time,Hybrid,40,44,2024,6,Q2
+JOB0099,2024-06-21,IT/Software,AI/ML Engineer,Jaffna,"TensorFlow, Python, Deep Learning, PyTorch, Machine Learning",3,126042,Full-time,No,103,82,2024,6,Q2
+JOB0142,2024-06-21,Telecommunications,Customer Care Executive,Jaffna,"Communication, Teamwork, Problem Solving",8,110052,Full-time,Hybrid,61,32,2024,6,Q2
+JOB0526,2024-06-22,BPO/Customer Service,Sales Executive,Jaffna,"Negotiation, Lead Generation, Sales, CRM",8,76675,Full-time,No,150,55,2024,6,Q2
+JOB0446,2024-06-23,Tourism & Hospitality,Front Desk Executive,Kurunegala,"Communication, Teamwork, Problem Solving",4,62014,Full-time,Yes,143,32,2024,6,Q2
+JOB0564,2024-06-23,Tourism & Hospitality,Hotel Manager,Gampaha,"Communication, Teamwork, Problem Solving",1,37284,Full-time,Hybrid,124,17,2024,6,Q2
+JOB0039,2024-06-23,Telecommunications,Telecom Analyst,Kandy,"Communication, Teamwork, Problem Solving",7,127000,Part-time,Hybrid,198,36,2024,6,Q2
+JOB0081,2024-06-24,IT/Software,Data Analyst,Jaffna,"Tableau, SQL, Power BI, Statistics, Excel",0,111831,Freelance,No,71,35,2024,6,Q2
+JOB0044,2024-06-25,Apparel/Textiles,Fashion Designer,Jaffna,"Communication, Teamwork, Problem Solving",8,67966,Full-time,Yes,131,72,2024,6,Q2
+JOB0070,2024-06-25,Tourism & Hospitality,Events Coordinator,Negombo,"Communication, Teamwork, Problem Solving",4,63103,Full-time,Yes,199,27,2024,6,Q2
+JOB0424,2024-06-25,E-commerce,Social Media Manager,Colombo,"Communication, Teamwork, Problem Solving",3,113390,Part-time,Hybrid,127,73,2024,6,Q2
+JOB0454,2024-06-26,Manufacturing,Operations Manager,Gampaha,"Communication, Teamwork, Problem Solving",3,54392,Full-time,Hybrid,143,41,2024,6,Q2
+JOB0363,2024-06-28,Apparel/Textiles,CAD Operator,Kandy,"Communication, Teamwork, Problem Solving",7,45768,Full-time,Yes,137,17,2024,6,Q2
+JOB0156,2024-06-28,Healthcare,Lab Technician,Kandy,"Communication, Teamwork, Problem Solving",5,71103,Full-time,No,173,22,2024,6,Q2
+JOB0297,2024-07-02,Finance & Accounting,Accountant,Negombo,"Financial Reporting, Tax Knowledge, Tally, Excel",1,67992,Full-time,Yes,61,82,2024,7,Q3
+JOB0418,2024-07-03,Finance & Accounting,Accountant,Gampaha,"Excel, Tax Knowledge, Tally, QuickBooks",6,81068,Freelance,Yes,33,33,2024,7,Q3
+JOB0551,2024-07-03,Healthcare,Medical Officer,Kandy,"Communication, Teamwork, Problem Solving",3,128485,Full-time,Hybrid,18,58,2024,7,Q3
+JOB0309,2024-07-03,IT/Software,QA Engineer,Galle,"Test Automation, Selenium, API Testing, JIRA",1,286312,Part-time,Yes,122,68,2024,7,Q3
+JOB0062,2024-07-06,IT/Software,Full Stack Developer,Kurunegala,"React, MongoDB, HTML/CSS, REST API, Node.js",8,204062,Full-time,No,200,85,2024,7,Q3
+JOB0003,2024-07-08,Apparel/Textiles,Quality Inspector,Jaffna,"Communication, Teamwork, Problem Solving",0,93046,Part-time,Yes,118,58,2024,7,Q3
+JOB0320,2024-07-08,Finance & Accounting,Financial Analyst,Kurunegala,"Excel, Financial Modeling, Data Analysis, Forecasting",6,70271,Full-time,Hybrid,47,48,2024,7,Q3
+JOB0311,2024-07-13,BPO/Customer Service,Customer Service Representative,Kandy,"Communication, CRM Software, Problem Solving, English",5,44862,Full-time,No,197,24,2024,7,Q3
+JOB0289,2024-07-16,Tourism & Hospitality,Tour Guide,Kandy,"Communication, Teamwork, Problem Solving",3,39894,Full-time,Hybrid,37,34,2024,7,Q3
+JOB0532,2024-07-17,Telecommunications,Network Engineer,Kurunegala,"Communication, Teamwork, Problem Solving",7,68567,Full-time,No,53,51,2024,7,Q3
+JOB0583,2024-07-20,Finance & Accounting,Tax Consultant,Negombo,"Communication, Teamwork, Problem Solving",2,108953,Full-time,Yes,101,49,2024,7,Q3
+JOB0102,2024-07-20,Healthcare,Medical Transcriptionist,Negombo,"Communication, Teamwork, Problem Solving",10,128724,Full-time,No,105,28,2024,7,Q3
+JOB0590,2024-07-20,Telecommunications,Telecom Analyst,Kandy,"Communication, Teamwork, Problem Solving",2,113131,Part-time,No,128,15,2024,7,Q3
+JOB0348,2024-07-22,Banking,Compliance Officer,Gampaha,"Communication, Teamwork, Problem Solving",5,138697,Full-time,No,44,58,2024,7,Q3
+JOB0357,2024-07-23,Tourism & Hospitality,Restaurant Manager,Galle,"Communication, Teamwork, Problem Solving",7,80213,Part-time,No,52,29,2024,7,Q3
+JOB0445,2024-07-24,Apparel/Textiles,CAD Operator,Kandy,"Communication, Teamwork, Problem Solving",8,74305,Full-time,No,148,44,2024,7,Q3
+JOB0499,2024-07-26,Manufacturing,Logistics Coordinator,Matara,"Communication, Teamwork, Problem Solving",0,103066,Full-time,Hybrid,194,55,2024,7,Q3
+JOB0343,2024-07-26,Finance & Accounting,Auditor,Colombo,"Communication, Teamwork, Problem Solving",1,83639,Full-time,No,55,55,2024,7,Q3
+JOB0288,2024-07-27,BPO/Customer Service,Team Leader,Kurunegala,"Coaching, Leadership, Performance Monitoring, Team Management",3,48566,Full-time,Hybrid,110,56,2024,7,Q3
+JOB0111,2024-07-27,IT/Software,Software Engineer,Kurunegala,"Agile, Node.js, Git, Python, Java, React",1,99265,Full-time,Yes,42,50,2024,7,Q3
+JOB0470,2024-07-28,E-commerce,Digital Marketing Specialist,Kurunegala,"Google Ads, Social Media Marketing, Analytics, SEO",8,70732,Freelance,No,100,55,2024,7,Q3
+JOB0005,2024-07-29,Banking,Relationship Manager,Negombo,"Communication, Teamwork, Problem Solving",1,119615,Full-time,Hybrid,168,61,2024,7,Q3
+JOB0051,2024-08-03,Finance & Accounting,Accountant,Kandy,"Tax Knowledge, Financial Reporting, QuickBooks, Tally, Excel",6,104236,Full-time,Hybrid,117,47,2024,8,Q3
+JOB0132,2024-08-05,Apparel/Textiles,Fashion Designer,Kurunegala,"Communication, Teamwork, Problem Solving",0,91892,Full-time,Hybrid,176,39,2024,8,Q3
+JOB0586,2024-08-05,Tourism & Hospitality,Hotel Manager,Negombo,"Communication, Teamwork, Problem Solving",6,82842,Part-time,Yes,93,70,2024,8,Q3
+JOB0020,2024-08-05,Manufacturing,Production Manager,Kandy,"Communication, Teamwork, Problem Solving",8,108082,Full-time,No,148,16,2024,8,Q3
+JOB0291,2024-08-06,Tourism & Hospitality,Hotel Manager,Negombo,"Communication, Teamwork, Problem Solving",2,40925,Contract,No,190,20,2024,8,Q3
+JOB0204,2024-08-06,Banking,Loan Officer,Jaffna,"Communication, Teamwork, Problem Solving",6,139721,Contract,Yes,98,34,2024,8,Q3
+JOB0341,2024-08-07,BPO/Customer Service,Content Moderator,Kandy,"Communication, Teamwork, Problem Solving",10,43517,Full-time,No,130,39,2024,8,Q3
+JOB0502,2024-08-07,Telecommunications,Network Engineer,Galle,"Communication, Teamwork, Problem Solving",1,125622,Full-time,No,188,84,2024,8,Q3
+JOB0554,2024-08-08,E-commerce,SEO Specialist,Matara,"Communication, Teamwork, Problem Solving",7,89500,Part-time,Hybrid,146,44,2024,8,Q3
+JOB0486,2024-08-10,IT/Software,Full Stack Developer,Kurunegala,"HTML/CSS, Node.js, REST API, JavaScript, MongoDB, React",6,250239,Full-time,No,191,27,2024,8,Q3
+JOB0019,2024-08-14,IT/Software,Full Stack Developer,Jaffna,"MongoDB, Node.js, JavaScript",3,145183,Full-time,No,118,38,2024,8,Q3
+JOB0075,2024-08-17,Tourism & Hospitality,Restaurant Manager,Matara,"Communication, Teamwork, Problem Solving",8,52841,Full-time,No,163,20,2024,8,Q3
+JOB0067,2024-08-19,Telecommunications,Field Service Technician,Kandy,"Communication, Teamwork, Problem Solving",2,104657,Freelance,Yes,132,29,2024,8,Q3
+JOB0072,2024-08-20,Tourism & Hospitality,Hotel Manager,Negombo,"Communication, Teamwork, Problem Solving",4,50170,Part-time,Hybrid,126,24,2024,8,Q3
+JOB0052,2024-08-21,IT/Software,Cybersecurity Specialist,Galle,"SIEM, Network Security, Compliance",0,284795,Part-time,Hybrid,61,17,2024,8,Q3
+JOB0103,2024-08-23,IT/Software,AI/ML Engineer,Jaffna,"Deep Learning, TensorFlow, PyTorch, Python, Machine Learning",4,263783,Full-time,Yes,21,19,2024,8,Q3
+JOB0018,2024-08-26,Manufacturing,Logistics Coordinator,Matara,"Communication, Teamwork, Problem Solving",3,103354,Full-time,No,100,69,2024,8,Q3
+JOB0330,2024-08-29,Apparel/Textiles,Fashion Designer,Jaffna,"Communication, Teamwork, Problem Solving",5,62921,Full-time,Hybrid,186,26,2024,8,Q3
+JOB0133,2024-09-01,Banking,Credit Analyst,Galle,"Communication, Teamwork, Problem Solving",7,78109,Full-time,Hybrid,97,25,2024,9,Q3
+JOB0507,2024-09-01,Telecommunications,Field Service Technician,Negombo,"Communication, Teamwork, Problem Solving",1,117917,Full-time,Yes,150,50,2024,9,Q3
+JOB0444,2024-09-02,Telecommunications,Sales Manager,Galle,"Communication, Teamwork, Problem Solving",8,95705,Full-time,Hybrid,188,84,2024,9,Q3
+JOB0213,2024-09-08,Manufacturing,Warehouse Supervisor,Gampaha,"Communication, Teamwork, Problem Solving",0,89739,Full-time,Yes,199,30,2024,9,Q3
+JOB0546,2024-09-13,BPO/Customer Service,Quality Analyst,Jaffna,"Reporting, Analytics, Quality Assurance, Auditing",7,56071,Full-time,No,181,24,2024,9,Q3
+JOB0425,2024-09-14,BPO/Customer Service,Sales Executive,Jaffna,"Lead Generation, CRM, Sales",5,55068,Full-time,No,147,16,2024,9,Q3
+JOB0369,2024-09-16,Banking,Credit Analyst,Kurunegala,"Communication, Teamwork, Problem Solving",10,160677,Full-time,Hybrid,36,64,2024,9,Q3
+JOB0550,2024-09-19,BPO/Customer Service,Quality Analyst,Galle,"Analytics, Auditing, Quality Assurance",4,58413,Contract,Yes,38,37,2024,9,Q3
+JOB0487,2024-09-19,Apparel/Textiles,Fashion Designer,Colombo,"Communication, Teamwork, Problem Solving",2,45768,Full-time,Hybrid,153,17,2024,9,Q3
+JOB0264,2024-09-20,Healthcare,Medical Transcriptionist,Kandy,"Communication, Teamwork, Problem Solving",0,72690,Full-time,Hybrid,127,17,2024,9,Q3
+JOB0436,2024-09-23,Tourism & Hospitality,Front Desk Executive,Negombo,"Communication, Teamwork, Problem Solving",10,71840,Full-time,Yes,51,22,2024,9,Q3
+JOB0359,2024-09-26,BPO/Customer Service,Voice Process Executive,Negombo,"Communication, Teamwork, Problem Solving",0,68880,Full-time,No,13,82,2024,9,Q3
+JOB0091,2024-09-26,Banking,Relationship Manager,Kandy,"Communication, Teamwork, Problem Solving",1,150931,Full-time,No,83,44,2024,9,Q3
+JOB0262,2024-09-26,Healthcare,Healthcare Administrator,Kandy,"Communication, Teamwork, Problem Solving",1,60648,Part-time,No,180,60,2024,9,Q3
+JOB0253,2024-09-29,Tourism & Hospitality,Tour Guide,Gampaha,"Communication, Teamwork, Problem Solving",5,47261,Contract,No,101,16,2024,9,Q3
+JOB0078,2024-10-04,BPO/Customer Service,Content Moderator,Matara,"Communication, Teamwork, Problem Solving",6,62803,Full-time,No,51,57,2024,10,Q4
+JOB0104,2024-10-05,BPO/Customer Service,Team Leader,Gampaha,"Team Management, Coaching, Performance Monitoring, Leadership",6,75402,Full-time,Hybrid,116,27,2024,10,Q4
+JOB0513,2024-10-05,Finance & Accounting,Accounts Executive,Kandy,"Communication, Teamwork, Problem Solving",4,90503,Freelance,Yes,16,74,2024,10,Q4
+JOB0129,2024-10-08,Telecommunications,Sales Manager,Kurunegala,"Communication, Teamwork, Problem Solving",7,135952,Full-time,Hybrid,174,56,2024,10,Q4
+JOB0420,2024-10-09,Telecommunications,Network Engineer,Negombo,"Communication, Teamwork, Problem Solving",8,86438,Full-time,Yes,163,80,2024,10,Q4
+JOB0273,2024-10-10,E-commerce,Digital Marketing Specialist,Kurunegala,"Analytics, Social Media Marketing, SEO, Google Ads",5,97329,Full-time,Hybrid,155,68,2024,10,Q4
+JOB0079,2024-10-11,Tourism & Hospitality,Restaurant Manager,Kandy,"Communication, Teamwork, Problem Solving",8,88317,Full-time,Yes,74,56,2024,10,Q4
+JOB0362,2024-10-12,Finance & Accounting,Accountant,Gampaha,"Financial Reporting, Tally, Tax Knowledge, Excel, QuickBooks",3,126444,Full-time,No,70,25,2024,10,Q4
+JOB0209,2024-10-12,IT/Software,UI/UX Designer,Negombo,"Prototyping, Sketch, Wireframing, Adobe XD, Figma",4,119116,Full-time,Hybrid,131,45,2024,10,Q4
+JOB0308,2024-10-13,Finance & Accounting,Auditor,Kurunegala,"Communication, Teamwork, Problem Solving",3,70198,Full-time,No,172,26,2024,10,Q4
+JOB0083,2024-10-17,Tourism & Hospitality,Events Coordinator,Gampaha,"Communication, Teamwork, Problem Solving",4,81229,Full-time,No,130,46,2024,10,Q4
+JOB0174,2024-10-18,Tourism & Hospitality,Restaurant Manager,Kurunegala,"Communication, Teamwork, Problem Solving",1,36518,Contract,No,71,42,2024,10,Q4
+JOB0009,2024-10-19,E-commerce,Graphic Designer,Kurunegala,"Illustrator, Creativity, Adobe Photoshop, InDesign",8,123579,Full-time,No,159,66,2024,10,Q4
+JOB0576,2024-10-20,Apparel/Textiles,Merchandiser,Kandy,"Communication, Teamwork, Problem Solving",4,81103,Full-time,Yes,70,39,2024,10,Q4
+JOB0227,2024-10-22,Healthcare,Nurse,Kurunegala,"Communication, Teamwork, Problem Solving",6,85607,Full-time,Yes,164,65,2024,10,Q4
+JOB0596,2024-10-23,Banking,Relationship Manager,Kurunegala,"Communication, Teamwork, Problem Solving",8,131625,Full-time,No,84,72,2024,10,Q4
+JOB0480,2024-10-24,E-commerce,Graphic Designer,Negombo,"Illustrator, Creativity, Adobe Photoshop, InDesign",10,101815,Full-time,No,198,82,2024,10,Q4
+JOB0183,2024-10-24,Apparel/Textiles,CAD Operator,Gampaha,"Communication, Teamwork, Problem Solving",0,97200,Part-time,No,153,56,2024,10,Q4
+JOB0400,2024-10-25,IT/Software,Data Analyst,Kurunegala,"Tableau, SQL, Excel, Python",10,126961,Contract,No,47,76,2024,10,Q4
+JOB0370,2024-10-29,E-commerce,SEO Specialist,Galle,"Communication, Teamwork, Problem Solving",3,129822,Full-time,Hybrid,85,72,2024,10,Q4
+JOB0350,2024-10-30,Finance & Accounting,Accountant,Kandy,"QuickBooks, Tax Knowledge, Financial Reporting, Tally, Excel",0,137846,Full-time,No,15,21,2024,10,Q4
+JOB0057,2024-11-02,Healthcare,Nurse,Galle,"Communication, Teamwork, Problem Solving",7,170115,Full-time,Hybrid,172,73,2024,11,Q4
+JOB0275,2024-11-03,Tourism & Hospitality,Events Coordinator,Galle,"Communication, Teamwork, Problem Solving",6,85273,Full-time,No,173,83,2024,11,Q4
+JOB0179,2024-11-04,Banking,Compliance Officer,Kandy,"Communication, Teamwork, Problem Solving",10,134205,Full-time,Hybrid,104,57,2024,11,Q4
+JOB0131,2024-11-05,BPO/Customer Service,Sales Executive,Matara,"Lead Generation, Sales, CRM, Negotiation",1,58813,Full-time,Hybrid,33,79,2024,11,Q4
+JOB0410,2024-11-12,Tourism & Hospitality,Tour Guide,Matara,"Communication, Teamwork, Problem Solving",5,82460,Contract,No,27,44,2024,11,Q4
+JOB0473,2024-11-13,Banking,Compliance Officer,Jaffna,"Communication, Teamwork, Problem Solving",2,144922,Full-time,No,49,32,2024,11,Q4
+JOB0246,2024-11-22,Finance & Accounting,Accounts Executive,Galle,"Communication, Teamwork, Problem Solving",5,80989,Full-time,Hybrid,69,66,2024,11,Q4
+JOB0501,2024-11-23,IT/Software,Data Analyst,Galle,"Excel, Statistics, Power BI, SQL, Tableau",6,123643,Full-time,Hybrid,186,81,2024,11,Q4
+JOB0061,2024-11-24,Manufacturing,Production Manager,Gampaha,"Communication, Teamwork, Problem Solving",6,81635,Full-time,Hybrid,186,75,2024,11,Q4
+JOB0268,2024-11-29,Telecommunications,Network Engineer,Gampaha,"Communication, Teamwork, Problem Solving",5,61056,Contract,Hybrid,118,31,2024,11,Q4
+JOB0415,2024-11-30,IT/Software,Mobile App Developer,Kurunegala,"Android, iOS, React Native, Flutter",6,120574,Full-time,Yes,147,69,2024,11,Q4
+JOB0557,2024-11-30,Healthcare,Medical Transcriptionist,Matara,"Communication, Teamwork, Problem Solving",5,107164,Full-time,No,27,16,2024,11,Q4
+JOB0381,2024-12-02,BPO/Customer Service,Quality Analyst,Gampaha,"Reporting, Quality Assurance, Auditing, Analytics",5,53982,Full-time,Yes,168,82,2024,12,Q4
+JOB0208,2024-12-03,Manufacturing,Logistics Coordinator,Matara,"Communication, Teamwork, Problem Solving",4,89387,Full-time,Hybrid,198,37,2024,12,Q4
+JOB0322,2024-12-06,E-commerce,Digital Marketing Specialist,Jaffna,"Google Ads, SEO, Social Media Marketing, Analytics",1,123752,Part-time,Hybrid,98,67,2024,12,Q4
+JOB0191,2024-12-09,Telecommunications,Telecom Analyst,Gampaha,"Communication, Teamwork, Problem Solving",7,126088,Full-time,Hybrid,94,35,2024,12,Q4
+JOB0126,2024-12-09,BPO/Customer Service,Voice Process Executive,Kandy,"Communication, Teamwork, Problem Solving",5,60334,Full-time,Hybrid,29,80,2024,12,Q4
+JOB0500,2024-12-11,IT/Software,Cybersecurity Specialist,Matara,"Compliance, Penetration Testing, Network Security",8,144414,Full-time,Hybrid,20,86,2024,12,Q4
+JOB0184,2024-12-12,E-commerce,Content Writer,Jaffna,"WordPress, Research, SEO Writing, Content Writing",10,84650,Full-time,Hybrid,81,86,2024,12,Q4
+JOB0089,2024-12-13,Telecommunications,Network Engineer,Jaffna,"Communication, Teamwork, Problem Solving",6,78894,Contract,Hybrid,29,75,2024,12,Q4
+JOB0197,2024-12-17,Healthcare,Nurse,Galle,"Communication, Teamwork, Problem Solving",0,89414,Contract,Hybrid,61,88,2024,12,Q4
+JOB0556,2024-12-21,IT/Software,Full Stack Developer,Negombo,"MongoDB, REST API, Node.js, React, HTML/CSS",1,150015,Full-time,No,128,45,2024,12,Q4
+JOB0577,2024-12-21,BPO/Customer Service,Chat Support Agent,Jaffna,"Communication, Teamwork, Problem Solving",8,75371,Full-time,Hybrid,178,41,2024,12,Q4
+JOB0127,2024-12-22,Banking,Credit Analyst,Negombo,"Communication, Teamwork, Problem Solving",5,171741,Full-time,Hybrid,175,33,2024,12,Q4
+JOB0119,2024-12-22,Manufacturing,Logistics Coordinator,Kandy,"Communication, Teamwork, Problem Solving",7,105028,Full-time,No,194,56,2024,12,Q4
+JOB0588,2024-12-23,E-commerce,SEO Specialist,Negombo,"Communication, Teamwork, Problem Solving",7,62844,Full-time,Yes,13,67,2024,12,Q4
+JOB0123,2024-12-26,Manufacturing,Supply Chain Analyst,Gampaha,"Communication, Teamwork, Problem Solving",1,96421,Full-time,Hybrid,121,17,2024,12,Q4
+JOB0168,2024-12-28,BPO/Customer Service,Quality Analyst,Negombo,"Auditing, Analytics, Reporting, Quality Assurance",1,41859,Full-time,No,157,48,2024,12,Q4
+JOB0567,2024-12-30,Healthcare,Nurse,Negombo,"Communication, Teamwork, Problem Solving",4,180491,Full-time,Yes,20,64,2024,12,Q4
+JOB0263,2024-12-30,E-commerce,E-commerce Manager,Galle,"Communication, Teamwork, Problem Solving",3,106314,Full-time,No,82,58,2024,12,Q4
+JOB0240,2024-12-30,Banking,Loan Officer,Kandy,"Communication, Teamwork, Problem Solving",0,141256,Part-time,No,147,25,2024,12,Q4
+JOB0190,2024-12-31,IT/Software,DevOps Engineer,Gampaha,"Docker, AWS, Jenkins, CI/CD, Linux, Kubernetes",0,89821,Full-time,No,95,51,2024,12,Q4
