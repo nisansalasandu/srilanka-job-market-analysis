@@ -260,7 +260,7 @@ Visualization → Power BI Dashboard → Reporting
 - Profitability trends
 - Economic indicators correlation
 
-![Revenue Analysis](images/dashboard_page2.png)
+![Revenue Analysis](images/dasgboard_page2.png)
 
 ### Page 3: Job Market Insights
 - Job posting trends over time
